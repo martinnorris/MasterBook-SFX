@@ -1,0 +1,1461 @@
+Necroscope
+
+"I know more than you can possibly imagine. And what I don't know I can get
+to know — almost anything." — Harry Keogh
+
+Based on: Charisma
+Effect Value: Interactive
+Resisted by: Confidence
+
+Necroscopes are the very rarest type of ESPer, so rare that it is thought that
+there have never been more than three in existence at any given time throughout
+all of recorded history. Literally speaking, "necroscope" means an instrument for
+viewing the dead. While this is perhaps not the most technically accurate term
+— "necrophone" might almost be better, since the psychic communication most
+closely imitates speaking — it nonetheless conveys this rarest of extrasensory
+talents well. A necroscope is one who can communicate with the dead, speak with
+them, learn from them, and even at times channel them. They have been
+described by those lying in their graves a light in the darkness, because they are
+someone for the dead to talk to in their quiet isolation, a medium through which
+they can complete the things their deaths forced them to leave undone.
+As we mentioned earlier, the dead lie in their graves quietly, no longer able
+to manipulate their body (at least so they think). There is no conventional way
+to communicate with the dead; they cannot read or hear or speak. They do not
+know touch, unless the person touching them is a necromancer, one with a
+particular psychic ability to rend the soul by destroying the body. Blind, deaf, and
+dumb, there is no way for ordinary people to reach them ... but necroscopes are
+no ordinary people.
+
+The activities of necromancers notwithstanding, the dead want to talk. The
+difference between a necroscope and a necromancer is that a necromancer forces
+his victims to surrender their truths under torture. A necroscope's approach is
+much more genteel; necroscopes are typically accepted as peers, and the dead are
+willing to share with them. It's human nature to want to show off if you've got
+something, or to talk with anyone if you're lonely. As a general rule, necroscopes
+are congenial people, interested in bettering the world around them. Arrogant
+and hostile necroscopes often find their contacts have little to say. This rejection
+alone is usually sufficient to open their minds up to the sufferings of others.
+Necroscopes bypass the ordinary physical media of communications, and
+speak with the dead directly, one mind to another. Most of the time it is
+equivalent to simply speaking with the dead, having a conversation as one would
+with any living person. Give and take, presenting thoughts as words, etc. This
+level of communication — words and sentences — is known as "deadspeaking."
+However, if the necroscope trusts the dead person (which they generally can, 
+since few dead people are likely to double-cross the only person they can
+talk to), it can become a very intimate style of communication indeed.
+
+<BOX>
+
+Raising the Dead
+
+As Harry Keogh was so found of saying, the dead love him. They would
+do anything in their power for him, including rising from the cold earth in
+their rotting shells to protect him. This is not a power restricted only to
+Harry Keogh. Any necroscope with a powerful enough talent and fine
+enough skill can call the dead from their graves.
+First the necroscope must speak with the dead in the area, establishing
+a link with them. He then decides how many of the dead he's going to ask
+for help. For each of the dead he attempts to raise there is a cumulative
+-2 to his ESP: necroscope skill total. A skill check is made for each of the dead
+to be raised and compared to the corpse's Confidence. The total result
+points are read on the Push Column of the Result Chart. On a result of
+Spectacular or higher, that dead person will rise and assist the necroscope.
+Just as the stats of people vary, so do those of the dead. The following
+are "average" stats for a newly dead person. Physical stats should be lower
+for the long dead.
+AVERAGE REANIMATED CORPSE
+AGILITY 8_
+DEXTERITY 7
+ENDURANCE 13 
+STRENGTH 14 
+TOUGHNESS 13 
+INTELLECT 8 
+MIND 8 
+CONFIDENCE 8
+CHARISMA 5
+
+</BOX>
+
+The necroscope can open the channel wider, not forcing thoughts and knowledge to be
+throttled through mere words but instead allowing for gestalt communication 
+— conversation not through granular words and sentences, but through living ideas. 
+The reason such communication requires trust is that at these times the 
+differentiation between one mind and another begins to blur, and opening
+your inner mind to another consciousness is a concept most people are loathe to try.
+
+This technique, known as "vectoring," is how the necroscope can learn skills from the
+dead. By communing with the dead and living their experiences vicariously, a necroscope can build up a store
+of knowledge and training in a short amount of time. Vectoring can also be used
+to access the skills of the dead, use them as a sort of library for personal use. With
+vectoring, a necroscope who speaks only English can contact a dead bilingual,
+and then begin speaking in a second language using the deceased's skills. This
+is how the line between consciousnesses is blurred, then: one brain can access the
+memories of another as if they were its own.
+
+And if the line can be blurred, be certain that it can be removed altogether.
+This is known as "channeling," and at these times it may seem as though the
+necroscope is a person possessed. The two minds, necroscope and dead, become
+as one, each drawing on the full store of knowledge of the other. Not simply
+knowledge, though, but also fears, mannerisms, idiosyncrasies, accents, and
+style. For the necroscope, this is a method of quickly accessing knowledge that
+would otherwise take long months or even years to learn ... why study brain
+surgery from a renowned doctor, when you can channel him right now and save
+your friend's life? The deceased gets a gift, as well, the chance to live again, only
+for a short while and in someone else's body to be sure, but to live again and
+practice and display those skills which were learned in life and honed in the quiet
+of death. The channeled spirit must access the instinctive balance and aware-
+ness of body that the necroscope carries with him, but the actions are those of the
+channeled personality.
+
+When channeling, the necroscope cannot hold anything back if it is to work.
+He must yield up control of his body to become a dual personality with the dead
+person in command. The necroscope's consciousness is forced into the cerebellum
+and brain stem, just to make sure that the body continues to function. It is up to
+the channeled personality to voluntarily leave the living shell, or else the
+necroscope must force the interloper out through willpower alone. This is why a
+necroscope should never attempt to channel a willful and devious person like Ted
+Bundy. To do so is to invite a long and difficult battle of wills with someone who
+has nothing to lose.
+
+Using the Skill
+
+Before speaking to the dead, one must first make introductions. The reasons
+behind this are exactly the same as the reasons for introducing oneself to the
+living: to let them know who you are, why you want to talk to them, etc. It has
+the added benefit of letting the dead know you can talk to them: a fact which is
+generally received with some surprise. While a necroscope's talent can have
+near-infinite range, introductions are generally done at short range. This is
+because the world is filled with dead people rotting two meters or so under the
+soil, and introducing oneself to a corpse at long range is much akin to trying to
+catch the attention of a stranger a hundred meters away in a crowded mall.
+
+To be sure, it is possible to make contact with
+dead people at whatever range your talent can
+support, but you must know exactly who it is
+you're contacting, exactly where they're buried,
+and there can't be too many dead people around
+them. For example, a necroscope could stand a
+few hundred meters away from Grant's Tomb and
+attempt to contact the late leader. The tomb is
+visible, the necroscope knows who's buried inside,
+and there's not a litter of other bodies in the
+mausoleum. Note, however, that unless the necroscope knows exactly where
+inside the tomb Grant is buried, or unless he has an area of effect on his SFX, it
+might take a good many tries before he "hits" Grant's body with his psionic probe
+and makes contact. As you can see, then, it's generally much easier to go and sit
+on someone's grave and give it a short shot.
+
+ESP: Necroscope
+Necroscopic situation
+Deceased is family or close relative -3 
+Deceased is an acquaintance -1
+Deceased just wants to talk -1 
+Deceased knows and doesn't like 'scope +1 
+Deceased knows and hates 'scope +3 or more
+
+Once contact is made, the necroscope can summon that person again and
+again, as long as they're within range. You can consider the necroscope to have
+the dead person's psychic phone number or something similar. Recreating
+contact at a hundred kilometers is no harder than recreating contact at two
+meters, if the necroscope's SFX has the range.
+
+The necroscopic art is an unusual one, a talent which subsumes the real for
+the metaphysical. As do necromancers when they ply their craft, necroscopes go
+into a trance when they reach out for the minds of the dead. To disconnect
+themselves from the world of the dead and return to vivid world of real life a
+necroscope must be awakened by someone else: see the description of Trance
+under ESP Special Effects Rules Adjustments, on page 34.
+
+Conversely, this also means that when the necroscope is not in the real world
+for reasons other than using his necroscopic SFX, he is open to communication
+from people he knows — the dead who have been previously contacted. In other
+words, when a necroscope is stunned, unconscious, or sleeping, he naturally
+extends his mind out in the realm of thought, and might chance upon a familiar
+tare. At these times it seems to the necroscope that the dead invade his dreams
+but what really happens is that in his dreamlike state his mind wanders about'
+and it naturally gravitates to those spirits he knows. The dead never sleep of
+course, so they are always willing to talk to the living, even if the living are
+snoring away.
+
+Similarly, a necroscope suffering from severe emotional shock can at times
+access the minds of the dead unbidden. Severe shock cannot be understated here-
+to do this requires the sort of situation where a normal person would say and
+mean, "I don't believe it"; where suddenly you cease interacting with the real
+world for a moment. Harry Keogh experienced this when suddenly interrupted
+by the abrupt arrival of the East German Grenzpolizei, armed and intent on
+arresting him for espionage. This sort of reactive contact is generally beyond the
+control of the necroscope (i.e., your gamemaster will tell you when it happens, or
+you can play certain cards to achieve it if the gamemaster allows).
+Aside from gleaning useful bits of knowledge and trivia through deadspeak,
+necroscopes can vector the dead for teaching instruction. Dead teachers count as
+teachers exactly as any other character, and they are generally more skilled than
+living teachers, as they've had more time to perfect their craft. There is one
+problem, however: not only must the teacher make a teaching roll to successfully
+impart their expertise, but the necroscope must also make an ESP: necroscope
+skill roll to keep the channels open well enough to learn the expertise from the
+dead. The difficulty of this roll is equal to the range value from the necroscope
+to the deceased, plus double the level of skill which the necromancer wishes to
+learn.
+
+A necroscope can vector a spirit and use its skills as if they were his own. The
+necroscope uses the dead person's skill instead of his own, except that the
+maximum level of skill vectored has restrictions. First of all, for each point that
+the necroscope's skill's Attribute is less than the Attribute the dead person had
+(while still alive, if applicable), then the maximum skill level vectored is reduced
+by one. This is because the necroscope and the dead person have less of a common
+frame of reference. For example, a necroscope has an Intellect of 8 and two
+tracking adds. He wants to vector a Cherokee hunter who had (and still has,
+really) an Intellect of 10 and five tracking adds. The necroscope has two points
+less Intellect than the hunter, so he can only vector three tracking adds (five adds
+minus two for the difference in Intellect). This gives the necroscope a skill total
+of 11 (8 Intellect plus three adds). The difficulty of vectoring skill adds is exactly
+the same as for vectoring to learn: double the level of skill which the necromancer
+wishes to be able to use, before subtracting for differences in Attributes.
+Channeling is the other form of necroscopic self-possession. When a necroscope
+channels a dead person's spirit, he lets the dead person take full control of his
+body. The necroscope no longer uses his own skills, but uses the skills and
+attributes of the deceased. A necroscope with an Agility of 6 will have a tough
+time vectoring a martial arts specialist because of the differences in the Agility
+Attribute. But if that necroscope channels the martial artist, the spirit uses his
+own Agility and martial arts, not the necroscope's (this is because the martial
+arts expert is using his many years of training and reflex to accent the
+necroscope's instinctive understanding of her own body). At theses times the
+necroscope looks like a caricature of the dead person, like a very good imperson-
+ator at work. This is because she really is the other person, the spirit of the
+deceased is wearing the necroscope's body. Obviously, channeling will not
+always work well. A person in a wheelchair cannot channel a great runner like
+Pheidippides and expect to run a marathon; his legs won't function no matter
+which spirit tries to move them. But normal people can do extraordinary things
+when channeling.
+
+The difficulty number for channeling is equal to 10 plus the channeled spirit's
+most appropriate skill total. The "most appropriate" skill total is the Attribute
+plus skill adds for whatever skill the necroscope is most going to use in this
+situation. For Harry Keogh channeling "Sergeant" Lane's military training? this
+would be unarmed combat plus Agility. Note that the channeled personality can
+still use any other skills he (the spirit) possesses. Note also that once channeling
+or vectoring is finished, the necroscope retains none of the knowledge.
+Although deadspeaking, vectoring, and channeling are used to describe
+various aspects of the necromancer's skill, these are not three separate skills.
+Any necroscope can do all three of these with equal facility. Of course, since the
+skill takes on such different aspects, a necroscope could choose to specialize in
+one of these three applications if the gamemaster allows.
+
+Since necroscopes are so extremely rare, a player who wants to create a
+necroscope character must get gamemaster approval. If more than one character
+wants to become a necroscope, we suggest that they roll dice. The high roll 
+becomes the necroscope, and the low roll must take a psychic gift of the
+gamemaster's choice — or perhaps suffer with no ESP gift at all! If they tie,
+neither becomes a necroscope, and the gamemaster can dispose of their 
+extrasensory fate as desired.
+
+=============================================================================
+
+Prescient
+
+"Without thinking, he tossed the keys onto an empty corner of the desk. Then
+he paused and stared at them lying there, forming a pattern — the pattern from
+this morning's glimpse into the future."
+
+Based on: Intellect
+Effect Value: Time
+Resisted by: (Not applicable)
+A prescient is a person who has glimpses of the future, foreknowledge of events
+to come. Prescience may perhaps be the most common form of psychic gift,
+
+because countless people around the globe have senses of foreboding or insup-
+portable convictions of the Tightness of a potential action. But though pre-
+science may be common, it is also usually weak; most people experience
+
+only the vaguest forms of prescience. These they call hunches, or
+intuition, or deja-vu after the fact. Does this make prescience a
+common gift, or simply a gift that functions better than others
+
+do at very weak power? There's no knowing for sure. What-
+ever the case, a true prescient is far indeed above this
+
+basest norm.
+
+Prescients get hard-core living-color full-contact in-
+your-face visions of the future. While the imagery is
+
+sometimes indistinct or even allegorical and dream-
+like, there is still a lot more to a fuzzy view of
+
+yourself a day hence than there is in an unidentifi-
+able hunch that maybe you ought to go somewhere.
+
+Prescients get full audio or visual stimuli, some-
+times both, or sometimes with other sensations in
+
+attendance. There has been one case of a pre-
+scient who suffered full tactile stimulation from
+
+his visions. One day he had a vision that he was
+going to get shot, and was doubled over in pain
+immediately. He suffered the pain anew the next
+day; he later joked that he was shot twice by the
+same bullet, once psychically, once physically.
+Whatever shape and senses the imagery adopts,
+there is one constant that all prescients will vouch for:
+that is that every vision with which they have been visited
+has, eventually, turned out to be of dramatic or even critical
+
+importance. Why this is so is cause for disagreement among ESP theore-
+ticians.
+
+Those who believe in predestination and the immutability of the future
+believe that certain events carry with them an emotional resonance. The more
+important a thing is, the more resonance it builds, and this shock wave can
+propagate backwards through the fourth dimension (time) along the person's
+lifeline. Those attuned or sensitive to these waves can read them, see the image
+that generated the response, and act upon that knowledge to cause that situation
+
+to come to pass. In this fashion, many of these important events cause them-
+selves to be created. Opponents of this theory argue that nonexistent events
+
+cannot generate their own reality, but proponents point out that the events had
+already happened — when viewed from the distant future.
+The other school of thought is that the future is mutable, and that we can
+control the choices we make. These people believe that the reason we can see the
+future is best explained by a river rafting analogy. In a river, underwater rocks
+cause water to 'pillow up' about them, causing a disturbance felt before the raft
+strikes the rock itself. The rafter can then endeavor to avoid this rock. Prescients
+can therefore sense this impending rock before normal people can, and can take
+steps to avoid it earlier, but ultimately it is up to the prescients to handle the
+situation as they like. Detractors of this opinion point out that, with a few
+unconfirmed exceptions, prescient visions always come to pass. Supporters,
+however, point out that the prescient who has the vision colors its style; the vision
+in essence shows what the prescient wants to do — which side of the rock he
+should paddle for — and therefore that's what the prescient does.
+Regardless of the true explanation, most prescients don't want to take a
+chance at messing with the future, so they abide by the visions they see. In the
+case of the gunshot prescient, he knew he would get hit. He made no effort to stop
+it, as he knew it would not be fatal, although he did arrange to have other agents
+nearby to arrest the person who attempted to kill him — and a few minutes before
+the attack he called for his own ambulance.
+Prescience, like many ESP talents, works best in those misty moments
+between true sleep and coming awake, immediately prior to full conscious
+awareness. Right as the prescient falls asleep or right as he wakes up are when
+the images normally come. Many prescients have made a point to take a few
+catnaps during the day to increase their receptivity to visions.
+Prescients can also (with the aid of a friend) try to prod their talent, force it
+into action briefly with word association games or Rorschach ink blots. It must
+be stressed, though, that this is forcing the skill in an unnatural fashion, and any
+success it meets with is minimal. Brief one-word answers are generally the
+extent of the results these tactics provide; nothing at all like the clarity of the true
+visions.
+
+Using the Skill
+
+As mentioned above, the effect value of the prescient's skill is the time value
+over which he can detect future events. It is up to the player to determine the
+senses involved in the prescient visions, but once these senses are chosen, that's
+how the prescient's SFX works ever after.
+Whenever the gamemaster feels a serious event is pending within the
+prescient's range of time, the prescient makes an ESP: prescience skill roll. He
+must generate a skill total equal to or higher than the DN of his SFX, as modified
+by the gamemaster for the gravity of the event being foreseen (generally no more
+than a point or few, unless total global nuclear war is imminent). If the prescient
+fails, no warnings are given. If the prescient succeeds, she sees a vision of the
+future. Subtract the prescient SFX's difficulty number from the prescient's skill
+total. The result is the value of the duration of the vision in seconds, and also
+pertains to the quality and detail of the information gathered through the vision.
+With better successes, more information is imparted, and it's imparted more
+clearly.
+For example, Alec Kyle gets a vision one morning. He only beats the DN of his
+SFX by one point. He gets a brief flash, merely a second and a half long, a vague
+image of seeing himself walking into Keenan Gormley's office. That's all. He puts
+on his hat and decides to go. If instead he'd beaten the DN by nine points, he'd
+get a minute-long image of him looking through files in a certain desk drawer,
+finding a file, and holding it up so that he can clearly read the name on the top
+of the index tab. If Kyle had beaten his DN by 30 points, he'd have had a long
+vision indeed, and rendered in such startling clarity that he could probably recite
+the contents of the file from the vision alone, and he wouldn't have to go in to the
+office.
+This points out perhaps the biggest fear of prescients: the fear of a paradox.
+If a prescient needs to find someone's phone number, and they have a vision of
+themselves in a phone booth finding it, and they get the phone number from the
+vision, why do they need to look any more? Answer: because it's supposed to have
+happened. They saw the future, but how can they see it if they don't do it?
+Prescients have their beliefs, but none really know how they see the future, or
+exactly what they're seeing. So just to be safe, they make sure they do the things
+they experience in a vision. No sense in disappearing in a temporal paradox,
+never to be seen again, right?
+The other method of using the skill — free association — is much more trying.
+The prescient must have a friend around to assist, to prod the prescient with
+
+unexpected words or images. Among those in the English INTESP, this proce-
+dure is known as "denting. "In essence, what the quizzing friend is doing is trying
+
+to hit the prescient with something out of the ordinary, and hoping he'll react
+with ESP instead of with logic. As with having visions, the DN for this task is
+equal to the prescient's SFX difficulty, and the quality of the response increases
+with increasing successes. However, for every point by which the prescient beats
+the DN, she takes one shock point and increases her DN for the next free
+association by one point. Quizzing can only continue until the prescient misses
+a roll, and cannot be undertaken again until the gamemaster decrees.
+For example, Deanna has a prescience SFX with a DN of 14. She gets quizzed
+by a friend of hers, and rolls a 17 for her first skill total. She gets a Solid success,
+but suffers three shock and her next DN is 17. On the next question, she rolls an
+astounding 35! This is a Spectacular + success, so she blurts out a critical piece
+of information and passes out cold from taking an additional 18 shock. It's just
+as well she passed out: with her next DN being 35, she'd likely have missed the
+next prodding and the questioning would have had to stop anyway.
+
+=============================================================================
+
+Seer
+
+"When I look at a man — when I try to see into his future — I normally detect
+a straight blue line extending forward. Like a line drawn down a sheet of paper
+from top to bottom. Call it his line of life, if you wish. From the length of this line
+lean work out the length of the man's life. From kinks and deviations which occur
+in it, I can determine something of future occurrences and how they will affect
+him."
+
+— Igor Vlady
+
+Based on: Mind
+Effect Value: Time
+Resisted by: (Not applicable)
+
+Every living sentient creature carves an ethereal path through the nonexist-
+ence of polyreality as it leads its life; essentially it's a path of where the sentient
+
+went, not just physically but also emotionally and intellectually. Perhaps it is
+best considered a metaphysical trail left by the mind and soul as it grows,
+changes, and evolves through its existence in whatever space-time universe in
+which it resides. These lines extend backward from the creature to reveal
+everywhere where it has been and thought and felt in the past, and similarly they
+extend forward to cover wherever the sentient will have once gone when viewed
+from a future perspective.
+Seers are ESPers who can see these lines extending from the hearts of people.
+As mentioned above, these lines are the trails of the heart and soul, and they have
+bends, squiggles, kinks, and frays wherever the owner had an experience of some
+sort. With practice, a seer can learn to interpret these deviations and make a
+reasonably accurate forecast of the future.
+Furthermore, when a seer can see multiple lines and examine how they
+interact, the seer can make predictions about interrelationships or outside
+events which will impact the people being read. When lives interact, the lifelines
+cross each other. The tangles and deviations indicate how. When two lifelines
+cross and they both experience nearly the same aberrations, the seer can
+determine that the two either get along well, or else they both experience the
+same outside influence. When two lifelines cross and one suffers and the other
+swells with power, the seer can determine that one has caused injury to the other;
+perhaps the suffering person was mugged, got fired, or the other was someone
+the one had been hoping to avoid.
+Death is perhaps the event most easily read, for the simple reason that only
+living people have lifelines. When a person dies, the lifeline stops. If the death
+is traumatic, the line ends abruptly. The line fades to black during lingering
+hospital-bound cancer deaths and the like. Whatever the cause, if there's no
+lifeline after a certain point, the seer can be certain that there's no life, either.
+All sentients have lifelines. For human beings, these lines are bright blue in
+color. Vampire lines are bright blood red in color. When a person is infected by
+a vampire, their lines merge, and the blue of the human's line shifts slowly
+through purple and then to red as it is gradually consumed by the vampire's
+undead lifeline. The lines of less intelligent creatures like cats and dogs are much
+dimmer than those of humans and vampires, and thus they are easily overlooked
+by most seers.
+In theory, a seer could read a person's lifeline (and those of their descendants)
+all the way to the end of time or all the way back to time's beginning. Fortunately
+(in the minds of most seers), ESP skills are not quite that powerful. It wouldn't
+be much fun to know the future of the planet for all time.
+There is a constant argument among seers about the permutability of the
+future. Some seers claim to be able to see multiple future timelines for a person,
+and argue that each split is indicative of a potential future which will only come
+to pass if the person being read exercises free choice and causes one or the other
+to come into existence. Detractors of this theory are those seers who can only see
+one future timeline. To these seers, the future is immutable, and any attempt to
+avoid it will somehow cause it to come into existence. In their opinion, the seers
+which can see multiple lines see the one true future and several other ghost
+
+images which can never come to pass. Multiple-line seers maintain that those
+who see only one line have less flexible a talent, as they are unable to forecast all
+the possible futures. There is also a third camp of seers who maintain that such
+attempts to define the flexibility of the future is an exercise in pointless
+philosophizing, since trying to make sound predictions based on squiggly blue
+lines is a vague art at best, and a far cry indeed from a hard science.
+Regardless of their beliefs in the mutability or unavoidability of the future,
+seers almost uniformly avoid forecasting their own future. This has become a bit
+of a superstition among the ESPionage circles, but the basic causes are twofold:
+the desire to avoid a paradox and the fear of seeing your own lifeline end ten
+minutes down the road. Some seers hypothesize that the shock of seeing your
+lifeline end ten seconds from now might be enough to give you a massive cardiac
+arrest. Such possibilities are enough to prevent the overwhelming majority of
+seers from attempting autodivination.
+
+Using the Skill
+
+The effect value of the seer's SFX directly relates to the amount of time of the
+targets lifeline the seer can visualize. In addition, seers must concern themselves
+with the number of targets they can use their SFX on. If the seer can only affect
+
+one target, then the seer can only see that person's lifeline. Purchasing addi-
+tional targets for the ESPer's SFX can either let the seer read two people at once
+
+and watch how they interact, or else let the seer read one person and be able to
+notice additional lines (possibly even lines belonging to persons unknown to the
+ESPer) as they interact with the person being read.
+Seers tend to be polarized into those who can see the past and those who can
+see the future. Those who can see into the future are perhaps the most useful,
+
+but those who can see the past are in high demand as interviewers for high-
+security positions (like every position in an E-branch). A character can have his
+
+seer SFX be able to visualize both a person's past and future by adding a target
+to the SFX specifically to provide double coverage. This allows the seer to see both
+the target's past and future for a time equal to the SFX's effect value (in each
+direction).
+When a seer makes a reading, the amount by which the player beats the DN
+of the SFX determines the accuracy of the reading. The quickest and easiest way
+to do this is to give the seer one fact for each point by which the roll beats the DN.
+Yes, since having a greater effect value increases the DN of the seer's SFX, this
+means that the farther ahead a seer can trace a line, the fewer facts will be
+determined by the same skill check die roll. On the other hand, since such a
+reading covers more time, the facts the seer discovers are much more likely to be
+important. Finding out the most important event for the next week of someone's
+life is helpful. A seer who easily gleans ten facts for the next sixty seconds of
+someone's life is not going to prove useful at all.
+Even though seers can spot the lines of unknown people as they interact with
+the lifeline of the person being read, they cannot trace the lifeline backwards to
+find out who the person is without considerable effort. Life threads are neither
+regular nor constrained to three dimensions, and the interactions between the
+threads of two lifelines might be physical (such as bumping onto someone on the
+street) or intangible (like talking on the phone). The only time a seer can
+definitively trace an unidentified lifeline back to the owner is when the owner is
+within both visual range and ESP range, and (of course) the lifeline interaction
+
+being traced backwards from is within the SFX's effect value. In those circum-
+stances, it does not matter if the person will leave the seer's line of sight and then
+
+return later; the life thread is a metaphysical structure, and the seer can see the
+entire thread from interaction all the way back to the person's heart — in
+defiance of Newtonian range restrictions.
+Regardless of the strength and power of the seer's SFX, a seer can't see
+everything; there are simply too many life threads out there to account for, which
+
+may be related to why most seers can see only from one to ten life threads at a
+time. It appears to be some sort of subconscious editing function in the brain
+which eliminates the background garbage. It's very similar to how a person
+reading a newspaper focuses on only a few letters in one column at a time: with
+peripheral vision the reader notices that other letters are around, but as they are
+at this time unimportant, they remain unidentified and ignored. They might be
+in a different paragraph or even an unrelated story, so how (if at all) they interact
+with what the person is focusing on is unknown. This parallels how seers ignore
+other lifelines, occasionally even lifelines that they might consider important, if
+only they knew.
+With this restriction, the amount a seer can determine might be severely
+restricted. For example, Igor Vlady, when making a reading for Chateau
+Bronnitsy, could see that the lifelines of most of the people began to terminate.
+There was interaction between them, but the interaction appeared to be
+cooperative as opposed to mutually destructive. Nevertheless, it was obvious
+that something very bad was about to happen and many Russians would die, but
+he couldn't tell what it was. Why is this? Because he didn't notice Harry Keogh's
+life thread. He had never met Harry Keogh, and he wasn't reading for him. Thus
+to Igor, Harry's line wasn't visible. In a similar vein, seers can miss the passing
+lifeline of suicide bombers, assassins, and passers-by. By subconsciously (or even
+consciously) screening out nonessential life threads, they might overlook a life
+thread which could cause certain readings to make sense.
+Although lifelines may be seen to dim with a person's diminishing vitality,
+they are almost never so faded as to be invisible to a seer. This is because the
+lifelines are seen as threads of neon color against a perfectly black background,
+a backdrop so black it defies imagination, and even the faintest of neon lights is
+still readily visible against such a backdrop. (If you ever want to see this deep a
+black, go on a cavern tour where they shut out the lights underground. Then
+you'll understand.)
+Similarly, seers can pick up the terminated life threads of dead people as long
+as the seer can see the past and the death occurred within the time value of the
+ESPer's SFX effect value. This does not require any additional die rolls, as to the
+seer the deceased person's lifeline will seem to be pointing straight to their heart
+— even at the extreme end of the seer's chronological range, the attachment is
+blatantly obvious. This would seem to be problematic if the dead person's body
+were moved, but for some inexplicable reason it is not the case. Seers believe it
+is because a person's life threads are not an actual physical path, but rather a
+metaphysical path. Since the path covers events both real and spiritual, it can
+also be used to determine a physical path for the person in question, but since it
+is primarily a metaphysical path, it will always appear to a seer to be pointing
+at the deceased owner. Whatever the explanation, a seer can pick up the threads
+of a dead person without pause and make some determination of the person's
+cause of death, and perhaps even whether foul play was involved.
+The only exception to all of the above appears to be thanks to vampires,
+naturally enough. It can happen that when a person is killed by a vampire, they
+die outright. Yet the vampire implanted within manages to survive and rebuild
+the person into a state of so-called undeath, and the person can rise and live
+again, after a fashion. To a seer, the lifeline of the victim of such an event may
+appear to terminate, then resume after a few days with a slight reddish tinge.
+Of course, most seers don't expect lifelines to begin again, so such anomalies are
+easily missed ...
+
+=============================================================================
+
+Sensitive
+
+"I can't help it. I'm drawn to this place like a moth to a flame. Every where I go,
+Chernobyl is burning in my mind, lighting the dim world like a great flare. So too
+are the other reactors, everywhere. They are so beautiful, comrade ..." — Josef Rossovskiy
+
+Based on: Intellect
+Effect Value: Special (see text)
+Resisted by: (Not applicable)
+
+Everything has a tangible essence of some sort, be it spiritual, energetic, physical, or all three. 
+Sensitives are those ESPers whose sixth sense is attuned to allow them to perceive some sort of unusual essence.
+There are sensitives who are attuned to electricity, there are those who are paranormally receptive to heat, 
+there are those who can perceive chemical activity. There can be fine discrimination between types of sensitives, 
+also. A sensitive who can spot radioactive materials can tell if someone has a few kilos of plutonium. 
+In contrast, someone sensitive to nuclear energy would be able to tell if a few kilos of plutonium were exploded. 
+Neither would be well-suited to detect what the other can; there aren't many radioactive materials left a few seconds 
+after a nuclear explosion, but until it is detonated a bomb emits very little nuclear energy.
+Whatever it is that they are keyed to, sensitive scan detect it.
+ 
+Huge compilations can be detected by attuned sensitives around the globe. 
+Smaller amounts of the proper item can only be detected at short range unless there is little or no interference
+between the source and the sensitive attuned to it.
+In this sense, the item or activity to which a sensitive is keyed can be considered to be like mounds, hills and mountains. 
+Small sources are like mounds, and can only be detected at short range unless the ground (the ambient background) 
+is very flat. Hills— moderate sources — can be detected from a good distance, and huge sources are like mountains 
+which can be detected easily and clearly for a good many miles in any direction.
+Whatever the source for a particular sensitive,they carry in their mind's eye a map of the world keyed exclusively 
+to those items or activities. For some, these images are only visible when they close their eyes, 
+for others the sensitivity is overlaid upon their normal senses and may give them a sort of psychic blind spot 
+under the proper circumstances.
+
+For example, a sensitive keyed to heat might detect a pot of hot liquid on a stovetop, but be unable to identify 
+the liquid because the paranormal image of the heat completely conceals the liquid from his normal eyesight. 
+The pot would seem to glow red,obscuring the contents.
+Whichever the case, the imagery can imitate any of the senses, even an itch or a peculiar taste or a sense of 
+vertigo. It can even be some other sense which, without an adequate frame of reference, sensitives have been 
+unable to explain to anyone else. Even among sensitives, this "other sense" seems to differ dramatically, 
+and a few are very discom-fited by experiencing it.
+However it is experienced, sensitives know what it is and they know what it means. This makes sensitives
+very valuable to the ESPionage world in general; they are
+better than standard sensory equipment, and many of
+them can detect items for which specific detection devices
+cannot be built. Sensitives have been used to track
+nuclear-powered submarines (and surface vessels) and
+surveillance satellites, and to capture people attempting
+to sneak across international borders. One drug sensitive
+(who experienced the appropriate highs as the drugs got
+closer to hand) spent time helping apprehend drug smug-
+glers until he had to retire for psychiatric help and
+addiction/withdrawal therapy.
+Sensitives are useful tools in the ESPionage arena,
+and are in high demand. While they lack the straightfor-
+ward and active effects of the telepaths and psychokinetics,
+the extra intelligence they provide can be an invaluable
+aid in any undertaking.
+
+<BOX>
+
+Sensitive: Optional Rule
+If you want increased realism at the cost of a
+little more complexity, don't use the target value
+and range value, use the measures instead. Then
+convert the difference between the measures
+back into a value and continue. The formula then
+looks like this:
+Success = Value [(Target measure) - (Range
+measure)] + (SFX effect value) + (ESP skill roll
+modifier)
+This makes short ranges of no consequence
+when detecting large items like nuclear plants,
+because the range measure will be swallowed by
+the huge target measure. Conversely, it makes
+detecting small items at long range very hard
+indeed, because the range measure becomes by
+far the greater. We recommend this for maxi-
+mum realism.
+
+</BOX>
+
+Using the Skill
+
+Sensitives were the most difficult of the ESP skills to
+design and balance for play. This is due to the interaction
+between the MasterBook system and the way sensitives
+were described in the novels. MasterBook is a very active system, which is as it
+should be in a roleplaying game where most of the activity is action-oriented.
+Further, as MasterBook values increase, the measures get exponentially higher.
+On the other hand, sensitives are not at all active ESPers; they are passive
+receptors. Also, and even worse, the higher a sensitive's SFX effect value, the
+smaller items he should be able to detect — inverse to the more-is-bigger
+approach of MasterBook.
+We decided we needed to meet the following criteria:
+a. large or powerful objects should be easier to detect
+b. large or powerful objects should be visible at longer ranges
+c. increasing effect value always helps, and
+d. no ceilings or floors should be artificially imposed.
+We were able to do this by using the MasterBook system backwards, after a
+fashion. In essence, the sensitive is not the actor, the item which the sensitive can
+detect is the actor and the sensitive is a passive antenna which detects the
+activity. The greater the source, the easier it is to detect. The longer the range,
+the harder it is to detect. The greater the SFX value, the easier the detection,
+These all happen to work out into a neat little formula which sensitives use:
+Success = (Target value) - (Range value) + (SFX effect value) + (ESP skill
+roll modifier)
+In other words, when a sensitive is trying to detect something, start by taking
+the target's value. For nuclear sensitives, this could be the mass of uranium
+present, possibly modified by purity or the radioactivity of the particular isotope.
+For an ESPer sensitive to electrical power, it could be the value of the watts
+produced by power plant's generators. Subtract the range value as measured
+from the target to the sensitive from this value (the result can be negative). This
+reflects the increasing difficulty in detecting items a long way away. Add the
+ESPer's effect value — the higher the value, the easier time the sensitive has
+detecting the target. Then, add the ESP skill roll modifier, which is either the
+amount by which the ESPer's skill roll exceeded the SFX DN, or else the amount
+by which the sensitive failed the ESP: sensitive skill roll (yes, it is possible for a
+sensitive to detect something even with a failed skill roll; some things are too big
+to miss).
+
+The result of the calculation should be checked on the General Success Chart.
+A negative number is a complete failure—nothing is detected at all — and higher
+positive numbers result in more information with higher veracity and detail. For
+example, a sensitive who can detect radioactive material scores a Minimal
+success. He can tell that there is a small amount of radioactive material at an
+unknown distance more or less east of his position. On a Spectacular+ success,
+he can tell that there's twenty kilos of weapons-grade materials three and a half
+kilometers east-southeast of him and thirty meters higher in elevation than
+where he now stands.
+
+Even with the same success level, the accuracy of the information depends on
+the range from the source to the sensitive. This is due to the simple fact that more
+detail can be gleaned at close range. A sensitive within a kilometer of a
+submerged nuclear submarine can tell a lot about the radioactive materials on
+that sub, including being able to differentiate between the radioactive signa-
+tures of the reactor and the missiles, and perhaps even between the missiles
+themselves. Were that same sensitive to detect the submarine at a range often
+or a hundred kilometers, the extrasensory images of the nuclear materials would
+blur and merge into one fuzzy impression. Think of looking at trees on a distant
+mountain; you can tell they're there, but you can't distinguish one from the other.
+When designing sensitives, the player must choose both what sort of material
+or energy the sensitive is keyed to, and also whether the sensitive can detect
+these items with eyes open, or with eyes closed only. For that matter, it is possible
+that the sensitive uses one of the other senses to detect whatever it is; a sensitive
+might experience a ringing in the ears, a peculiar taste, or a sense of vertigo. It's
+all up to the player.
+Finally, even those sensitives who have to concentrate to use their talent
+occasionally have the images of their keyed source impinge on their conscious
+unexpectedly. No matter what kind of trance a nuclear sensitive has to go into
+to work his talent, he'll almost certainly notice when he drives past a large
+thermonuclear plant or passes right next to a terrorist's nuclear bomb. Gener-
+ally, this is left up to the gamemaster to determine (as is the case with every
+ESPer deus ex machina), but a good rule of thumb is that if the source value
+minus the range value is ten or more, the sensitive might pick up the source
+involuntarily (have the ESPer roll a skill check, but don't add in the SFX effect
+value).
+
+=============================================================================
+
+Shaman
+
+"He saw Batu's face silhouetted against the night, and one eye which was a
+yellow slit while the other was round and green and throbbing as if filled with
+sentient pus! Something passed from that face to Gormley as fast as the thrust of
+a mental knife; its razor edge located his spirit, his very soul, and opened them
+up!"
+
+Based on: Confidence
+Effect Value: Damage (various types)
+Resisted by: Toughness or other attribute (ignores armor)
+
+Traditionally, the evil eye has been a power reputed to be able to inflict curses
+or bad luck on people with but a glance. If you consider immediate horror and
+pain unknowable to most mortals to be "bad luck" (as most people do), then this
+description is basically right. Except that commonly the evil eye is no ordinary
+glance but a horrid and appalling spectacle.
+Someone who possesses the power of the evil eye is known as a shaman. This
+label is perhaps a deliberate misapplication by Gregor Borowitz, former head of
+the Soviet Agency for the Development of Paranormal Espionage, as the first
+ESPer of this sort which Borowitz found was a Central Asian herdsman but not
+at all a spiritualist. Whatever the original source, the label has stuck and is now
+in common usage across the globe.
+A shaman is one of the few ESPers whose unusual talent causes a direct
+physical effect, yet it does this through a spiritual medium (no pun intended).
+The evil eye is the channel through which a shaman inflicts a direct spiritual
+attack upon another person. This sort of direct spiritual interaction still baffles
+paranormal researchers around the globe, because it's the only instance known
+
+wherein direct spiritual contact has extended past pure communication. Telepa-
+thy is communication, even Wamphyri mind control is communication, albeit of
+
+a more assertive nature. Some argue that a shaman is even more forceful about
+their communication than the Wamphyri are, being able to order the target's
+
+brain stem to stop pumping the heart. Others maintain that it is a direct spirit-
+to-spirit assault, the psychic equivalent of a brutal roundhouse punch to the face.
+
+Shamans themselves (the few that there are) are divided on the issue, but the
+exhausting effect that the evil eye has on shamans gives credence to the concept
+that the evil eye is more than just psychic shouting.
+Furthermore, the evil eye does not necessarily have to be a glance. Although
+most shamans have a killing look, there have been some shamans who used hand
+gestures (like the infamous "quivering palm") and there is one well-documented
+but rather ineffective shaman who made an ungodly sound which rose from a
+hiss to a growl and suddenly burst into a shrieking bark. All of these had a similar
+effect on the target; they were all simply different media for the spiritual assault
+to use.
+Using the evil eye (or the horrid hand or the bilious bark or whatever) is a
+draining experience for the shaman; rare indeed is the shaman who can cast it
+more than twice in the span of a few minutes. It is a great drain, and although
+it causes the victim's heart to lurch and inflicts great pain, it generally is not
+powerful enough a talent to actually kill those who are not already weakened by
+weak hearts, advanced age, or other medical conditions. (Domestic and prey
+animals, having less willpower than most humans, are also liable to be killed
+
+
+outright by the casting of an evil eye.) To try to push the evil eye harder to kill
+a normal, healthy person outright involves more effort than a shaman can
+typically produce without killing himself in the process. |
+There is also a greater hazard affiliated with the evil eye, and that is that is
+must be thrown against a living target. It cannot be thrown against a non-living
+target, because the spirit of the shaman must attack another living spirit — and
+bad things can happen if the shaman screws up in this matter. This can happen
+if the shaman accidentally targets a mirror, a mannequin, or (as is possible) a
+dead person come back to mobility. It's obvious why mirrors and mannequins are
+non-living targets, but the walking dead pose an interesting problem being
+debated by experts. Since the spirits of the dead remain with their corpses, why
+can't a shaman target these spirits? The best guess that experts can make is that
+the spirits of the dead are no longer connected with their corpses as intimately
+as the spirits of the living are, and that when a shaman attacks a living person's
+spirit, they have to be able to reach to the target's body. Such an avenue is no
+longer available with the walking dead, who only manipulate their bodies in the
+grossest sense of the term, more like meaty marionettes than real breathing
+bodies.
+Whatever the actual case, when a shaman casts the evil eye on a target which
+is not really there, the psychic strike turns back on itself, rebounding from the
+nonentity target and returning to the source: the shaman himself. The shaman's
+spirit strikes him with full force, with all the malevolence expended in the strike,
+and, because the shaman is concentrating entirely on attack and not on defense,
+he suffers the attack without the natural resilience of anyone else's spirit.
+However, just as a man cannot lift himself by the hair, a spirit cannot crush itself
+(although there is one inconclusive instance where it might have happened).
+Instead, the energy of the attack has to expend itself somewhere else, which
+usually means it takes full effect in whatever part of the body is the medium for
+the assault. Thus a shaman with a quivering palm might shatter every bone in
+his hand, whereas a shaman who uses an evil eye might have his very eyes
+exploded as from within by the force of his own will. Reflected attacks are always
+debilitating, and usually permanently crippling to the shaman careless enough
+to suffer them.
+Due to the grotesqueness and malevolence of their unusual talent, shamans
+are often unpopular people. This is in part due to the obscenity of their talent,
+and due partly to the psychological effect the knowledge of their powers has on
+them. After all, if you know you can deck someone with a glance, are you
+particularly inclined to treat them with respect? You know what they say about
+power and corruption ...
+
+Using the Skill
+
+First of all, a shaman must define several aspects of the evil eye SFX. For one
+thing, the shaman is the only type of ESPer in the basic game which can have an
+unreal effect for their paranormal talent — that is to say, a shaman can either
+assault someone, or give them the overwhelming waking nightmare that they
+are being assaulted. Either can be severely damaging, or even fatal to those of
+diminished constitution.
+Second, the player must determine how the shaman's talent is communicated
+to the victim. Is it through a glance, a gesture, a touch, or something else? This
+has an impact on how the psychic attack can be used; a shaman with the evil eye
+is helpless if he's unable to see his intended victim (the room is dark or he's
+blindfolded), but a shaman with a quivering palm is hampered by handcuffs.
+Third, the shaman must decide whether or not the victim's awareness is
+necessary. In a negative sense, it could easily be that if the intended victim is not
+looking at the shaman (perhaps even deliberately avoiding making eye contact),
+then the shaman's paranormal talent has no effect. On the other extreme, a
+shaman can so completely command a victim's attention that the victim can
+undertake no other action than to submit to the psychic assault. 
+The effects of these sort of SFX parameters fall outside the scope of the standard SFX rules, and are best
+handled using Advantages and Compensations.
+
+Fourth, associated skill uses are easily applied to the shaman's talent. 
+The psychic bolt, though intangible, can be affected by manual skills. 
+Thrown weapons is one possibility, as is fire combat (especially if the shaman has to point his finger like a gun). 
+Others are possible given a touch of creativity and a good explanation.
+
+Fifth, the shaman can have an area of effect. 
+In this sense,the shaman's spiritual attack is more like a psychic grenade or bomb. 
+Max Batu apparently has a bit of an area of effect,as Boris Dragosani made a habit of turning his face away
+before Max threw his psychic bolt at someone. 
+The exact details of how the area of effect works must be decidedbetween the player and the gamemaster, 
+as it is one areawhere great abuse of the rules is possible.
+
+When a shaman casts the evil eye on someone, make an ESP: shaman skill roll. 
+If the shaman beat the DN, comparethe shaman's SFX effect value to the target's Toughness (or
+whichever attribute the shaman SFX damages). 
+This is ofcourse the standard approach for SFX damage.
+However, the exercise of this talent is physically drainingas well as psychological wearying; the shaman also suffers from the assault. 
+Take the SFX effect value and subtract theshaman's Confidence attribute from it. 
+Halve the differenceand apply it as shock damage to the shaman. If the shaman's ESP: shaman skill roll exceeds 
+double the shaman's effect value, subtract one shock point for each point of difference.
+
+All the shock is applied after the shaman casts the evil eye, so it is possible for a shaman to curse someone 
+and then passout from the effort. 
+A shaman can also cast several evil eyes, so long as he is able to maintain consciousness. However, 
+the gamemaster should not allow a shaman to cast an evil eyeover and over again at the same target. 
+Instead, the pushrules should be used.
+
+Example: A shaman (see the shaman SFX on page
+65) casts his evil eye on someone. He barely beats his
+SFX DN, and damages the target. The shaman takes 6
+
+shock points (24 for the effect value minus 12 for Confi-
+dence, divided by two). If the shaman rolled 50 result
+points on his ESP: shaman roll (!), he'd only take 4 shock
+points (the result points beat double the SFX DN by two,
+so two shock points are removed from what the shaman
+suffers). As previously mentioned, shamans can push their evil eye SFX,
+but it is a dangerous undertaking. When a shaman pushes, 
+add the shock taken from the push to the amount the shaman already tookfor the initial use of the talent. 
+If the accumulated shock points exceeds the amount of shock the shaman can withstand (not excluding any 
+shock the shaman has already taken due to damage or exhaustion), the excess shock points are converted to 
+wounds ona one-for-one basis. 
+It doesn't take a lot of pushing for a shaman to begin to risk rupture of the aorta, 
+especially if the shaman is already tired...
+
+Physical wounds caused by a shaman's attack are not tangible, but they can
+be detected by a thorough physical. That is, long, bloody gashes and the like don't
+suddenly appear on the victim, but bruising of the heart can occur, as can
+numerous small ruptures, pneumothorax, embolisms, and a variety of other
+damaging ailments. Even purely illusory damage will manifest itself as minor
+palpitations and other psychosomatic signs.
+Psychological damage is due to similar effects on the victim's very soul. Again,
+it manifests itself in various signs of stress, such as increased blood pressure,
+altered brain patterns, and higher pulse rate.
+When attacked, victims of a shaman are very aware of where the damage came
+from, even if they don't understand the mechanism by which it came about. The only
+possible exception is if the target were attacked in a crowd while unaware. In other
+words, treat a shamanic assault just as you would a physical assault for reaction,
+enmity, and future precautions taken by the target to prevent reoccurrences.
+
+=============================================================================
+
+Spotter
+
+"It got so he could recognize them almost as easily as he recognized his own men.
+He had never come face to face, but he'd know they were there. Strange auras.
+Never where he could tie a face to a feeling."
+
+Based on: Mind
+Effect Value: Special (see text)
+Resisted by: (Not applicable)
+
+Spotters are very similar to sensitives, but whereas sensitives are tuned to
+natural energies or matter, spotters are able to locate and identify ESP-endowed
+people. For a while, spotters were classified as ESP-sensitives, but there is
+enough of a difference that they have been broken out into a separate subclass
+by most paranormal experts.
+For one thing, spotters seem to have a more definitive range. Although there
+is still variance depending on the strength of the ESPer being detected, there is
+a definite range beyond which spotters cannot detect a psychic. While the best
+
+sensitives carry a map of the entire planet (keyed to their substance of sensitiv-
+ity) in their heads, the longest known identification of an ESPer by a spotter was
+
+at a range of approximately one kilometer. They are also an entirely visually-
+based form of ESPer, lacking in the flexibility of detection sensations which
+
+sensitives have.
+Furthermore, sensitives detect whatever it is that they are keyed to. If it's
+radioactive, for example, it's detected. The sensitive can only tell what sort of
+
+radioactive material it is by judgment calls based on the density of its radioac-
+tivity and the like. For spotters, however, different ESP auras are distinctly
+
+different in appearance. ESP auras may be strong or weak, intense or pale,
+shaped in different ways, and they come in as many colors as the rainbow — even
+more. Necroscopes are bright blue in color; necromancers, deep blue mixing with
+blood red. Other spotters are bright white in appearance. Curiously, the colors
+of an ESPer's aura do not manifest themselves in a spotter's mind until the
+ESPer is within the spotter's range; one spotter described all humans as having
+a shimmering gray aura which developed into whatever color and shape Was
+appropriate as the spotter came closer.
+It is this description that makes most spotters believe that their talent is not
+simple passive reception as is the case with sensitives, but instead more of a
+psychic sonar; the spotter emits — unconsciously — a psychic pulse which gets
+reflected by every living creature. Psychically endowed humans reflect the pulse
+much more strongly, as if the pulse itself gains energy and vitality by rebounding
+off a psychic power. Other ESPers are thus 'bright' targets and reflect this pulse
+as though they were elastic, while most people are 'dull' and absorb much of the
+energy of the pulse. This theory is supported by the fact that many spotters have
+their talent hampered by solid objects which intervene between them and other
+
+ESPers. One spotter told two other ESPers, "I had to actually enter the house to
+know you were here."
+To spotters, a person's psychic aura is as unique as their face. With careful
+study, identification by aura is as exacting as by fingerprint. Even more so, for
+while an intelligence agent might be able to disguise his face and perhaps even
+surgically alter his fingerprints, it is impossible to mask the soul ... at least at
+this time.
+This detection of the soul itself brings us to another advantage spotters have:
+they can tell whether someone is channeling a dead spirit. The aura of the
+channeled spirit will override the aura of the necroscope who is allowing the
+channeling, although the aura of the necroscope will still be visible as a sort of
+halo around the aura of the channeled spirit. In this way a spotter can tell
+whether someone is channeling, and what type of person is being channeled.
+Spotters enjoy similar effects when watching those who are vectoring spirits,
+undergoing hypnotic regression, having out-of-body experiences, and peforming
+other paranormal activities.
+Spotters are very much in demand in ESPionage circles, largely because they
+are wonderful talent scouts (pardon the pun). Most E-branches have spotters
+
+scouring their big cities looking for the distinctive auras of the psionically-
+endowed. It is no coincidence that Gregor Borowitz, the head of the USSR's
+
+Agency for the Development of Paranormal Espionage, and Sir Keenan Gormley,
+the head of Britain's E-branch, were themselves powerful spotters.
+
+Using the Skill
+
+Spotters, unlike most of the ESPers described in this book, have their power
+active all the time. While shamans and seers must concentrate to use their
+paranormal talent, spotters simply have their talent working for them around
+the clock. Thus, whenever you encounter an ESP-endowed person, you can make
+an ESP: spotter skill check to see if you can detect what type of ESPer it is. Of
+course, your gamemaster will probably have you make skill checks every time
+you encounter a new and important gamemaster character whether it's an
+ESPer or not, just so you're not sure which of them might be psionically-talented
+if you fail the roll.
+When making an ESP: spotter skill check, spotters receive a bonus to their die
+roll. This bonus is equal to the target ESPer's SFX Difficulty Number minus the
+range value from the spotter to the target; this makes powerful psychics easier
+to spot. This bonus may of course be negative if the target ESPer is weak or the
+range is very long.
+If the spotter succeeds in the skill check, subtract the range value from the
+spotter's effect value and check the result on the General Success Chart. A
+Minimal success means that the spotter knows the target is an ESPer. A
+Spectacular+ success tells the spotter the target ESPer's talent, SFX effect value,
+ESP skill value, and allows the spotter to recognize that exact same ESPer for
+who he is at any time in the future (even with a future Minimal success — the
+spotter has memorized the target's psychic fingerprint).
+Spotters can also tell the taint of vampirism. Vampires are powerful psychics
+in their own right, and their minds have a peculiar indescribable taint, a sort of
+psychic fog which conceals the vampire's mind from being exposed by human
+ESPers. Everything a vampire touches with its mind acquires this taint to a
+lesser extent, and spotters can notice this contamination easily. In game terms,
+use the intruder vampire's willpower skill value instead of the normal ESPer's
+effect value for the skill check bonus, thus the bonus is the vampire's willpower
+value minus the range value. This taint is visible even if the target has no psionic
+talent of its own.
+Finally, spotters can get used to psychic signals in their vicinity, much like
+people can get used to certain smells or background sounds. Don't penalize your
+poor spotter for walking around with other ESPers; the spotter would just tune
+them out after a short while.
+
+=============================================================================
+
+Telepath
+
+"Now he'll concentrate on that single sub, see if he can sneak into its navigator's
+mind and get the new course." — Gregor Borowitz
+
+Based on: Intellect
+Effect Value: Interactive
+Resisted by: Intellect
+
+Mention extrasensory perception to most people, and they will immediately
+think of mind-reading. This association is perhaps in part due to the fact that
+telepaths are one of the most common forms of ESPer in the world; people
+throughout history have had experiences with telepaths, so the association of
+telepathy and ESP is commonly-held.
+
+A telepath is a person who can read the thoughts of another person, true, but
+it goes much further than that. A good telepath can actually probe the living
+matter of another person's brain, rooting through the person's past history by
+means of unraveling half-forgotten memories and images long lost to the person
+himself. A good telepath can do more than raid the active thoughts of a target,
+he can take poke around the hidden recesses like a person in a musty library or
+a doctor with a CAT scanner for the soul.
+
+Telepaths are very good interrogators, and are thus very much in demand by
+the ESPionage networks around the globe. They are so dangerous because they 
+know what weakens your willpower.  They are so effective because they can sense 
+the effects their questions have; if a telepath's interrogation makes you 
+uncomfortable, they know, they can see it happening. And you can bet that they 
+will continue to probe the sore spot until the information they seek is laid 
+bare under the bright gaze of their unusual talent.
+
+Unlike the portrayal of many mind-readers and empaths in
+modern fiction, telepaths do not just pick up thoughts and
+feelings from other people all the time; they must concentrate
+actively. In this sense, they are not passive antennas waiting
+for broadcasts, but rather mindthieves who steal thoughts
+and memories from their target. Also, telepaths can only
+receive; they are not capable of telepathic projection, they
+cannot make others hear voices in their heads (that's a
+different talent which will be covered in a future supplement).
+
+Thus a telepath cannot relay orders to an agent in the field,
+although two telepaths can have a long-distance conversation
+by reading each others' minds.
+
+It is unclear exactly how telepathy works, but it appears to
+involve the extrusion of a psychic pseudopod, if you will. This
+paranormal hand can reach out to the mind of the target and
+'feel around' for the information the telepath wants. This
+theory is backed up by the fact that when Wamphyri telepathically probe
+someone, they can leave their inimical psychic footprint on the person's brain;
+this fact alone demonstrates that the telepath in some very real sense is inside
+the target's head. One telepath, at a loss for words to illustrate what his talent
+felt like, described it so: "Probing for someone's thoughts is something like
+searching a dresser in a room that's completely dark. First you run your hands
+carefully over the top of the dresser; whatever thoughts are active in the person's
+mind are on top there, being used and in easy reach. You can grab those easily.
+Recent memories — well, all memories — are packed in the drawers of the
+dresser. In a drawer, the recent memories are on top, and distant memories,
+childhood stuff and unimportant events, are buried deep in the drawers. There
+are even some repressed or very old memories which are almost impossible to
+touch. They're like something which has dropped down behind a drawer, where
+they can't be reached without an intense search and a lot of work."
+
+Also, to a telepath, reading a person's mind is not like reading a book, it's much
+more intense and personal. When reading a book, you learn about it. When
+reading a mind, a telepath lives it. The emotion is real, raw and powerful as the
+story itself, not diluted by prose and suspension of disbelief. The telepath knows
+not only what the thoughts of the target are, but the emotions that drive those
+thoughts. In this way, a telepath can generally avoid misinterpretation of
+thoughts, picking up sarcasm, joking, or attempts at deceit which can color the
+true meaning behind the contemplations.
+
+Remote Targeting
+
+In the Necroscope novels, all a telepath
+had to know was where the target was in a
+global sense, not in a sense which related to
+the telepath personally. It was enough for
+the telepath to know the target was in a
+submarine at a specific location in the ocean,
+it was unnecessary for the telepath to know
+where the submarine was in relation to
+him. Similarly, one could assume that a
+telepath could see someone on TV in a
+known location and that would be good
+enough. If you want to allow this sort of
+flexibility, go right ahead. If the target is
+located within the telepath's range, and the
+telepath knows the location, that's good
+enough and the telepath can establish con-
+tact. Alternatively, this sort of spatial ori-
+entation could be allowed as an Advantage.
+
+There is some danger to being a telepath. One is that if someone knows you
+are a telepath, they will tend to trust you less. The very fact that you can read
+their minds makes them feel that you are spying on them constantly. Of course,
+once their opinion is colored and they begin to try to conceal things from you, as
+a telepath you'll be tempted to probe their mind and find out what you want.
+Additionally, those speaking with a telepath often wonder if what the telepath
+says comes from the heart, or is a response formulated specifically to give the
+listener the impression that it comes from the heart; in other words, is the
+telepath's interaction genuine or a tailor-made lie? In short, telepaths have a
+difficult time building trusting relationships with someone. For this reason, it is
+a generally-accepted custom that telepaths never read the minds of co-agents.
+Even with this rule in place, telepaths are still often pariahs in their own
+organizations.
+
+Another problem with telepaths is that they pick up all the thoughts of their
+target, and thus often become jaded or cynical. Everyone has random psycho-
+pathic thoughts all the time. If a person is rude to you in traffic, you think of firing
+a bazooka at their car and watching them explode in slow-motion. These
+thoughts are never voiced, neither are they acted upon (by sane people at least),
+but to telepaths they are every bit as real as every other thought. Some telepaths
+get very depressed, and view the world as a total war zone waiting to happen.
+A third danger of being a telepath is that it is possible to become addicted to
+outside stimuli. Just as some people drive great satisfaction from living vicari-
+ously through soap operas or reading trashy novels, some telepaths spend a lot
+of time in other people's minds living their lives and watching their most
+intimate moments; the telepathy develops into a sick sort of voyeurism.
+These weaknesses aside, telepaths are the most highly sought-after ESPers
+in the world today, and are among the most powerful tools in the ESPionage
+arsenal.
+
+Using the Skill
+
+In order to read someone's mind, the telepath must first identify the target.
+If the target is in sight, this is not a problem. Otherwise, the telepath must know
+where the target is located. If the telepath knows that the target is asleep in bed
+exactly two floors above in a hotel, this is good enough. However, if the telepath
+only knows that the target is in the east wing of the embassy across the street,
+she must begin taking shots in the dark, as it were, until she hits the target. In
+cases like these, having an SFX with an area or volume of effect is quite helpful.
+Once a telepath has a target identified (or is casting blindly about for same),
+the telepath must make a skill roll. If the telepath's ESP: telepath skill check
+exceeds the difficulty of the SFX DN, the telepath breaks into the target's mind.
+Subtract the target's Intellect from the telepath's effect value. The result is a
+modifier for all subsequent telepathic interrogation attempts. (If the telepath's
+result points are more than double the SFX DN, any additional points are added
+to this telepathic interrogation modifier.)
+
+Once a telepath has established contact with a target, she has an amount of.
+time equal to her SFX duration to complete her examination of the subject. In
+essence, the telepath can research the answers to a number of different 
+questions, rolling another skill check (plus the modifier described above) for each
+question. The Paranormal Interrogation Table lists I)N modifiers and time
+requirements for various types of information the telepath might require. If the
+telepath succeeds or fails in the skill roll, decrease or increase the time value to
+acquire the information by one per point of success or failure, respectively.
+
+Failing a skill roll on a follow-up question does not deny the telepath the desired
+information, as the telepath has already succeeded in establishing contact with
+the target's mind. It just makes finding the information harder.
+
+If the telepath does not have enough time left in the SFX duration to complete
+a question, the telepath gets either incomplete information or no information at
+all, at the discretion of the gamemaster. However, if a telepath thinks her time
+is running out, she can try to push her skill to get results quicker. Use the normal
+push rules.
+
+Telepaths can receive additional information during their interrogation as
+well. The surface thoughts of a person are very easily read, and are sometimes
+picked up by a telepath even when the telepath is searching for something
+different. Remember, thoughts are fluid and holographic in nature, and people
+think in stream-of-consciousness. so the information received may be partly
+illusory or achingly incomplete when the telepath picks it up. (Hint: this is a plot
+vehicle for the gamemaster to toss in any additional clues or warnings that are
+deemed necessary.)
+
+=============================================================================
+
+Numerancer
+
+Strange equations suddenly flashed on the screen of his mind. Doors opened
+wheren o doors should be.H is metaphysicalm ind reachedo ut and grasped the
+physicawl orld, eagert o bend it to his will. He could hear the felledp lain-clothes
+man screamirugh is rage and pain, could seet he taller one reaching into his
+ouercoaatn d drawing out an ugly, short-barceledw eapon.B ut printed ouert his
+pictureo f the real world, the doorsi n theM itbius space-timed imensionw eret here
+withirt reach, their dark thresholds seeming to beckon.
+- Necroscope
+
+Based On: Intellect
+Effect Value: Ability to manipulate the Mribius Continuum
+Resisted By: Not applicable
+
+Numerancy, the innate ability to work with numbers - especially with those
+equationsth at allow peoplel ike Harry Keoght o uset he Mtibius loopt o teleport.
+Peoplew ith this ability seemt o have an intuitive senseo f higher mathematics.
+Thus far, only Harry Keogh has managed to master the ability to teleport, but
+then, you never know when another might show up - on either side of the
+intelligence fence, I'm afraid.
+Ever since Keogh revealed his talent in the spectacular way he did (but that's
+another story altogether), we've had some of our best mathematicians working
+to determine how he managed it. So far, they've told us they're getting closer, but
+there seems to be more to it than they first thought. Some have speculated that
+it takes a leap of faith, a suspension of disbelief, or a frrm belief that it can work,
+on top ofeverything else. Since nobody has been able to get far enough to even
+think about belief or disbelief, it's entirely moot at this stage in the game.
+So far, the closest we have to full-fledged teleporting numerancers are our
+intuitive calculators. Some of these agents are working on the Mdbius project,
+though they haven't had any success yet. Perhaps it takes several lengthy
+discussions with Mdbius himself to make that leap of intuition.
+
+Uslng the Sklll
+
+Numerancy is an integral part of Necroscopen ovels,b ut in game terms, it is
+extremely powerful and extremely difficult to adjudicate. It's up to the gamemaster
+whether or not to allow a full-fledged numerancer as a player character. If not,
+it's easy enough to limit the abilities of the numerancer to that of an intuitive
+calculator, which in itself is a useful skill. If a player is dead-set on becoming a
+Mribius numerancer, then he has to become familiar with many mathematical
+theories, talk to a lot of different people (including dead ones), and, usually, go
+on a quest (or two, or more). To even take the numeran cy skill the character must
+have at least one skill add in scholar: mathematics.
+Numerancy is not a focus of the ESP skill. Instead, it is a full-fledged skill in
+itself. Characters with the skill of numerancy have the ability to work with
+equations and mathematical theories intuitively. In fact, if given a complicated
+problem, rather than working out every step, they can instinctively leap to the conclusion 
+
+The gamemaster determines a difficulty number
+of a particular equation based on the length of time
+it takes to solve (select a time value from the Value
+Chart). The character then generates a nunl.erancy
+skill total. Find the result points on the Push column
+ofthe Success Chart, and then subtract the
+resulting push value from the equation's time value
+to determine the actual length of time it takes for
+the character to solve the formula.
+The Mdbius specialization of numerancy entails
+an in-depth knowledge of Miibius theory. There are
+several mandatory prerequisites for the Mdbius
+specializationT.h esei nclude: a scholar: mathematicss
+kill of 25, a sciencea: stronomys kill of 15, and a
+nwnero,ncsyk ill of a least 15.T he mastermust
+determine which mathemati and
+astronomers- alive or
+visit before gaining a
+numerancyi Miibius or
+There is no need
+effect before the ch
+Sincet his effect is
+using the Mtibi
+worry about the
+tion. All that
+value.a reao f
+port items along
+target (optional:
+when your fellow ng another agent
+instead)I.t is poss and delay time by
+adding optional mod
+skill is the ability to
+hl aspect ofthis
+te situation. If you
+addelementtsh at will s re cuttingdown on the
+usefulnesso f the skill.
+Continuum and grows more familiar ffih the process as he manipulates and
+Oncein the Contingum,t ffiIffiffigo'ffirywhere on Earth that he is
+familiarw ith or canb ef i-uidedS t asf fiffiffi arr/s fi $$tv isit whenh ew asl eda way
+by a dead person ). Continuum ltse wtSl$fh the Vanffiire World is much the same,
+but the character has to go the*re ph$iffily befor$$eing able to travel these via
+Continuum.T he effectv alue is usedt o Ebterminet dhethert he characteri s able
+t9 op-ena door into the Contin$um. A -s4&nds peciq$effectr oll is required to exit
+the Continuum and re-enter fuality
+
+The base difficulty numbeffir opehffi a door into or out of the Continuum is
+30. However, since the charaffir starts ffit being unaccustomed with the Miibius
+travels through it, the difficulpy decre$es by one for each successive attempt,
+until the diffrculty number fal$ to 20. Sris gradual decreaseh elps emulate the
+idea that the character is learSing his ffiay around the Continuum.
+Of course, a character's fam$$iarity lsth his current location and his destination
+does affect the "exiting" ffifficulty number. After all, when working with
+mathematicalf ormulas, whereagroua re is as important as where you're going -
+especiallywhenyou'rter yingto movef rom onel ocationt o anotherviathe Miibius
+Continuum. Once the effect is initiated, refer to the Mribius Continuum Modifier
+Chart.
+If the character misses his roll to ehter the Continuum. he is stuck in his
+current location. If the character misse$ the roll while inside the Continuum, he
+isl osti n the Mtibius Continuum for 1d.fr0h ours. For eachh our the character is
+
+marooned in the Continuum, he loses one
+point of Endurance or one point of Mind ifhe
+misses a roll against a diffrculty number
+equal to his starting Endurance or Mind,
+respectively (alternating each hour - Endurance,
+Mind, Endurance, etc.). This simulates
+the character's ability to hold himself
+together both in mind and body while lost in
+the Continuum. Once the "lost" hours have
+elapsed, the character may attempt another
+exit. Unfortunately, the exiting diffrculty is
+increased by the number of points of Endurance
+or Mind lost while marooned in the
+Continuum (if applicable).
+Entering the Continuum is difficult, and
+sometimes deadly. After all, Harry Keogh
+wasn't able to open his first Miibius door
+until he found himself in a life-threatening
+situation, and once inside, it took a dead
+person to guide him back out. Not all characat
+necroscopya s Harry Keogh.
+
+Example: Agent Thomp son finds himself in a tight situation. He's bound
+and gagged in a small room with no apparent exit. He decides to use his
+numerancy: M0bius talent to get himself out of the situation. To initiate the
+effeci and open the first door, he has to roll his numerancy: Mdbius sh,ill
+against the speciale ffect'sd ifficulty numbero f 16.H e generatesa total of 28,
+yielding 12 result points. Since he has only usedthe Mdbius Continuumfour
+times before,h is based fficulty number to get into and out of the Mdbius
+Continuum is 26 (30 - 4). Trying to enter the Continuum from a darkened
+crreq incurs a +5 penalty, raising the entrance dfficulty to 31 (although it
+does not affect the exit difficulty). His effect ualue is 20. Adding in the result
+points giues him a total of 32 (20 + 12), ullowing him to open a door to the
+Continuum.
+He decidesh es hould teleportt o the hotelr oom whereh is fellow agentsa re
+currently waiting. Since he only saw the hotel room a few times, his total
+dfficulty number for exiting the Continuum is 30 (26 + 4). He rolls against
+his special effect difficulty of 16, and gets a 17, yielding one
+result point. His effectiue effect ualue is 21 (20 + 1), not
+enough to beat the exit difficulty of 30. The player controlling
+Thompson must now roll a ten-sided die to determine
+how many hours Thompson will be stuck in the Continuum.
+He gets a three, so now he has to make a check
+uersus his Endurance, Mind, then Endurunce agairu. Because
+his Endurance is 9 and Mind is 10, his initial chech,s
+are made against a dfficulty number of 9 and 70, respectiuely.
+H e rolls an 8 for Erudurancea nd a 13 for his Mind,
+thus missing his Endurqnce (9 - 1 = 8), but making his
+Mind check. Now he has an Endurctnce of 8 for the second
+check. Since his Endurance dfficulty number remains at
+9, he has to roll an 17 or better to make the second
+Endurance chech. He makes it with a roll of 13 (bonus
+pointsof2,S+2=10).
+At this point hec an q,ttemptt o leauet he Continuum. His
+new exit dfficulty num.ber is 31 (the original exiting
+difficulty number of 30 plus the point he lost in Endur-
+aruceH). e generates1 1 result points initiating the effect,w hich giuesh im a
+total effect ualue of31 (20 + 11),just enough for him to escape
+
+=============================================================================
+
+Witch
+
+Based On: Confidence
+Effect Value: Special
+Resisted By: Special
+
+Over the centuries the general populace has devised many definitions for
+people known as "witches." Here at the agency, we have our own version. EBranch
+witches have the ability to perform "sympathetic magic" upon themselves
+or others. The skill applies to any living creature, so witches can also affect
+any being from the animal or insect kingdoms.
+Oh, and witches can be male or female. The agency refers to either gender in
+the same way. Although some call male witches "warlocks," we feel the distinction
+would lead to more confusion than clarification. For those neo-pagans out
+there in the room, please do not feel offended at anything I might say about how
+our particular witches use their abilities.
+Whenever we have a strange ESP skill that seems to work by the principles
+of sympathetic magic and which doesn't fit into any of the other existing
+categories, we call that person a witch. For a while, elementals fell into that
+category (weather witches, you know), but finally we had enough of them to
+create a separate classification. I'm sure we will encounter similar situations as
+we locate and study more ESPers.
+By the way, for those of you who don't know about sympathetic magic, it's a
+system of dweomercraft that uses symbolism and wish fulfillment to generate a
+desired effect. Examples of rituals include sticking a pin into a doll to cause one's
+enemy pain, eating the flesh of a cheetah to acquire its speed, and using a
+person's "true" name to take control of him.
+How this ability works, we can't even begin to explain. The key to the talent
+seems to revolve around strong faith. Of course, this theory can be applied to any
+of the ESP talents.
+
+Uslng the Sklll
+
+A witch's talent should not fit into any other skill category (like elemental,
+sensitive, void, etc.) and it should use some sort of sympathetic magic. Thewitch
+skill encompassesa wide variety of abilities, so the player must comeu p with a
+specific description ofhow the effect functions. For example, one witch might use
+dolls to hurt or hinder foes. Another witch might augment various attributes and
+skills by drinking an herbal infusion brewed over a frre containing herbal
+components. Whatever the case, the idea should be imaginative and fully
+detailed.
+Once the idea has been fleshed out, the gamemaster should look it over and
+determine whether it should fall under another skill. For example, if a player
+came up with a special effect that allowed the witch to heal herself or others, then
+that effect would come under the healer skill, not t}re witch skill.
+When creating the effect, there are certain elements available only to witches.
+Since the emphasis of a witch's special effect is sympathetic magic, gestures,
+componentsa, nd incantationst ake on a whole new importancei n theNecroscope
+world. For this reason,a ll of these elements are allowed- and encouraged- for
+witch ESPers. After all, sympathetic magic gets its name partly from its strange
+components, complicated gestures, and muttered incantations. Witches should
+have a sense of ritual about them.
+Another important aspect of witches is their strong faith. Once the effect has
+been developed,t he player must create a character background that warrants
+such an ability. After all, we're basing the witch skill on the strength of the
+ESPer's beliefs. For example, a little girl throws her "Daddy" doll against the
+wall, and moments later watches her father die of a heart attack. Forever after,
+the girl believes she killed her father, and begins to perform rituals on dolls
+representing other people to force them to take certain courses of action
+
+A witch may affect himself or others, but not both. Witches who affect
+themselves usually augment their skills or attributes. They must therefore
+select the focus element for their effect. When they wish to alter an attribute,
+their effect value is compared to their skill or ability on the Push column of the
+Success Chart. The result points are then added to the character's skill or
+attribute for the duration of the effect. If the player wishes to have the option of
+affecting more than one attribute, then the multi-attribute element must be
+chosen.
+Witches who can affect animals or other humans must have the focus and
+apportation elements. Those who can affect another being's attributes - either
+positively or negatively - use the rules given above for personal altering. In the
+case of witches who can decrease an ability, the Push result is subtracted from
+the character's attribute score. The more lethal witches often have the ability to
+cause damage to a person's body. To inflict damage on a target creature (via dolls,
+direct spells, etc.), the effect value is treated as a damage value, ignoring any
+armour.

@@ -1,0 +1,485 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>
+Outline SFX description
+</title>
+<style>
+body {background-color:#fffaec;}
+h1 {font-family:serif; font-size:16px; color:#1c1c1c;}
+h3 {font-family:verdana; font-size:14px; color:#1c1c1c;}
+p {font-family:verdana; font-size:12px; color:#1c1c1c;}
+p.formula {text-align:center; font-family:courier; font-size:14px; color:#1c1c1c;}
+table {font-family:arial; font-size:12px; color:#1c1c1c;}
+span {font-family:verdana; font-size:12px; color:red;}
+code {font-family:verdana; font-size:12px; color:red;}
+</style>
+</head>
+<body>
+
+<h1><code>Skill.getCost.eq.1</code>Necroscope</h1>
+<p>
+The basic power of a Necroscope is to talk to the dead.  
+Make the SFX ESP:Necroscope skill roll against the SFX DN (<code>Specific.getCostDN</code>).  
+If you SFX roll succeeds add the amount you exceed the roll to the <i>effect</i> value ()<code>Effect.getValue</code>), 
+compare to the spirit <code>Skill.getOpposition</code> and check the <code>Skill.getResult</code> column for the result.
+There is a modifier for the result.  
+</p>
+<table>
+<tr><th>Situation</th><th>Modifier</th></tr>
+<tr><td>Deceased is family or close relative</td><td>-3</td></tr>
+<tr><td>Deceased is an acquaintance</td><td>-1</td></tr>
+<tr><td>Deceased just wants to talk</td><td>-1</td></tr>
+<tr><td>Deceased knows and doesn't like Necroscope</td><td>+1</td></tr>
+<tr><td>Deceased knows and hates Necroscope</td><td>+3 or more</td></tr>
+</table>
+<p>
+A dead spirit can also act as a teacher to the Necroscope once a connection has been created.  
+To learn requires a <i>teaching</i> roll on part of the spirit plus a ESP:Necroscope skill roll.
+The difficulty of the SFX roll is the range value plus twice the number of skill adds to be learned.  
+</p>
+<p>
+The Necroscope can <i>vector</i> the skills of a dead person once contact has been made.
+The difference in the basis attribute for the skill between the Necroscope and the target is used to limit the number of skill adds that can be vectored 
+and as a contribution to the DN.  e.g. a Necroscope with INT 10 vectoring a spirit with INT 12 can only vector the target's skill adds + 10 - 12
+The DN is double the number of skill adds to be vectored plus the difference between attribute levels.
+</p>
+<p>
+The Necroscope can <i>channel</i> the complete skill set of a dead spirit allowing them to use the target skills and abilities.
+The difficulty of this is 10 + the ability and skill adds that are most appropriate 
+</p>
+
+<h1><code>Skill.getCost.eq.2</code>Necromancer</h1>
+<p>
+Successful use of ESP:Necromancer allows the Necromancer to torture the secrets from the dead soul of the victim.  
+Roll the skill with SFX DN (<code>Specific.getCostDN</code>).  
+Compare the SFX <i>effect</i> (<code>Effect.getValue</code>) against <code>Skill.getOpposition</code> and consult the <code>Skill.getResult</code>.  
+Success on this table reveals basic identity and basic biographical information.  
+Modify the DN depending on the state of the body:
+</p>
+<table>
+<tr><th>State</th><th>Modifier</th></tr>
+<tr><td>Body dead &lt; 1 hour</td><td>-3</td></tr>
+<tr><td>Body dead &lt; 6 hours</td><td>-1</td></tr>
+<tr><td>Body dead &lt; 1 week</td><td>+1</td></tr>
+<tr><td>Body dead &lt; 1 month</td><td>+3</td></tr>
+<tr><td>Body dead &lt; 1 year</td><td>+6</td></tr>
+<tr><td>Body completely rotted</td><td>+12</td></tr>
+<tr><td>Additionally - body mummified or well preserved</td><td>-1</td></tr>
+<tr><td>Additionally - surgical suite available</td><td>-1</td></tr>
+<tr><td>Additionally - torture equipment available</td><td>-1</td></tr>
+</table>
+<p>
+Subtract the victims <i>willpower</i> from the <i>effect</i> (<code>Effect.getValue</code>) and apply this result {positive or negative} to further uses of the ESP power.
+A Necromancer can often tell if the deceased has something important they would not willingly divulge.  
+The Necromancer makes an opposed SFX roll against the <i>willpower</i> of the dead, a success then allows the Necromancer to ferret out the information.  
+The time and effort are from the paranormal investigation chart:
+</p>
+<table>
+<tr><th>Value</th><th>Time</th><th>Information</th></tr>
+<tr><td>0</td><td>instant</td><td>Immediate present, current thoughts</td></tr>
+<tr><td>4</td><td>5 seconds</td><td>Something immediately to mind</td></tr>
+<tr><td>7</td><td>30 seconds</td><td>Subject that happened or is remembered for current day</td></tr>
+<tr><td>11</td><td>3 minutes</td><td>Important long term memory</td></tr>
+<tr><td>14</td><td>10 minutes</td><td>Unimportant long term memory</td></tr>
+<tr><td>18</td><td>1 hour</td><td>Important fact forgotten</td></tr>
+<tr><td>20</td><td>3 hours</td><td>Unimportant forgotten fact</td></tr>
+<tr><td></td><td></td><td>Within these categories the information is 100% truthful as far as the subject knows</td></tr>
+<tr><td></td><td></td><td>There is no limit to the number of times the Necromancer can interrogate the victim</td></tr>
+</table>
+
+<h1><code>Skill.getCost.eq.3</code>Prescient</h1>
+<p>
+You can see the future, sometimes flashes out of the blue, or sometimes when you make a subconscious connection.
+These both work in a similar way, but in the first case the Game Master tells you when to test your power because of a story critical moment,
+and in the second case you try to have a subconscious insight by association with words, images, touching something etc.,.  
+The <i>effect</i> value (<code>Effect.getValue</code>) determines the time window you experience of <code>Effect.getValue.getTime</code> 
+</p>
+<p>
+When the Game Master feels a serious event could occur within the Prescient time window, the player makes an ESP:Prescient SFX roll DN (<code>Specific.getCostDN</code>), 
+modified by the severity of the event.  
+On success subtract the DN from the Prescient skill total, and look up this value as time for the length of the vision - 0 = 1 seconds; 9 = 1 minute; 18 = 1 hour etc.,.
+The length of the duration determines the level of detail the Prescient can extract from the vision
+</p>
+<p>
+Free association is where the Prescient tries to trigger a vision by having someone recite words, or flash images, or even from touching something.
+The Prescient makes the SFX roll DN (<code>Specific.getCostDN</code>), and a success generates the duration of the vision from skill minus the DN.  
+In this case the Prescient takes shock damage equal to the amount the Prescient beat the DN roll.
+For each test like this the DN increases by 1 until the Prescient fails a roll, and then they cannot try free association until the Game Master agrees.  
+(Or optionally after the FV used as a delay) 
+</p>
+
+<h1><code>Skill.getCost.eq.4</code>Seer</h1>
+<p>
+A Seer can see the lifelines of living, sentient creatures.  They perceive Humans and Wamphyrii life lines as different colours.  
+In their perception of these lifelines the Seer sees how different lifelines have interacted in the past, and might interact in the future.  
+The <i>effect</i> of the SFX gives the time (<code>Effect.getValue.getTime</code>) in the past <i>or</i> the future that the Seer can examine a lifelines.  
+However a Seer can see multiple targets that could be the same person in the past <i>and</i> the future.  
+To visualise interactions with other people the Seer needs an SFX that applies to multiple subjects.  
+</p>
+<p>
+The Seer makes the SFX skill roll ESP:Seer with DN (<code>Specific.getCostDN</code>) to determine how much (if anything) the Seer will reveal.  
+For each point of the roll that beats the DN, the Seer learns 1 fact about the target
+When the lifeline of a person interacts with another unknown lifeline, the other lifeline can only be identified for certain is if  
+the lifeline is for a person who is both within visual range and the range of the ESP power, plus within the effect range {time} of the SFX.  
+The Seer can see the termination of a lifeline as it ceases, if that is within the time window of the SFX, and has some idea about the cause of death.
+</p> 
+<p>
+The lifeline of a person being 'reborn' as a Wamphyri has the termination associated with death, and then some time later the emergence of a fainter Wamphyri coloured lifeline.
+</p>
+
+<h1><code>Skill.getCost.eq.5</code>Sensitive</h1>
+<p>
+Sensitives are ESP users who are attuned to a particular type of matter or energy, spiritual or tangible.  
+The Sensitive SFX is used to determine the quantity and qualities of the target.  
+The SFX is worked 'in reverse' using the attributes of the target to determine the effectiveness of the Sensitive.  
+First roll the Sensitive's ESP:Sensitive skill against the SFX DN (<code>Specific.getCostDN</code>) and note the difference.  Even <i>negative</i> values could provide information.  
+The success level is then applied to a formula that includes the target mass and range.  (For the mass and range use the equivalent value measure)
+</p>
+<p class="formula">
+success = target mass - target range + SFX effect + difference noted above
+</p>
+<p>
+Compare this value on the <code>Skill.getResult</code> column.  A negative result here indicates that the Sensitive cannot detect the target.  
+A success will give a general idea of quantity, range and bearing; while a spectacular success gives detailed information about the target.
+Range does affect the level of detail discovered.
+</p>
+<p>
+Occasionally the Sensitive will subconsciously detect something that is too big to miss.
+In this case the Game Master will prompt the Sensitive if the source mass minus source range is more than 10
+</p>
+
+<h1><code>Skill.getCost.eq.6</code>Shaman</h1>
+<p>
+A Shaman can cause actual physical harm to the target through spiritual means.
+The Shaman rolls ESP:Shaman with DN ()<code>Specific.getCostDN</code>).  
+If this roll succeeds compare the <i>effect</i> (<code>Effect.getValue</code>) of the SFX against the appropriate target <i>attribute</i> and consult the <code>Skill.getResult</code> column.
+After this result the Shaman suffers shock, this is calculated as half the <i>effect</i> (<code>Effect.getValue</code>) minus the Shaman's <i>confidence</i>; 
+and if the SFX roll exceeded double the <i>effect</i> reduced by SFX roll minus <i>effect</i>.  
+</p>
+<p class="formula">
+shock = (effect of SFX - CON)/2 - roll > (2 * effect of SFX) ? (effect of SFX - roll) : 0
+</p>
+<p>
+A Shaman may use the SFX as long as they stay conscious, but these should be at different targets.  
+Use the <i>push</i> rules instead of making several SFX on the same target but this is more dangerous.  
+If the accumulated shock from using the SFX is greater than the Shaman's shock limit, the excess shock is converted to wounds  
+</p>
+<p>
+The damage caused by the Shaman is not typical physical damage, but is expressed as numerous minor injures or psychosomatic signs.
+The target of a Shaman's attack is fully aware of the source of the attack even if they do understand the nature.
+</p>
+
+<h1><code>Skill.getCost.eq.7</code>Spotter</h1>
+<p>
+A Spotter can detect if another person has an ESP power.  
+The power is 'on' all the time, so the Game Master can ask the Spotter to make a test for anyone they meet.  
+The SFX is rolled using the characters ESP:Spotter skill with DN (<code>Specific.getCostDN</code>) with a bonus of the DN minus the range value.
+{This makes it harder to spot ESP users further away}
+If the Spotter succeeds on the roll, take the <i>effect</i> (<code>Effect.getValue</code>) minus the range value and compare the result on the <code>Skill.getResult</code> column.  
+A minimal success identifies the person as an ESP user and recognisable as such in the future like a psychic fingerprint
+A spectacular success reveals the particular ESP power, their ESP skill level and SFX effect value.
+</p>
+<p>
+A Spotter will also spot the taint of Wamphyri {even if they do not have a ESP power}.
+Use the Wamphyri <i>willpower</i> minus the range, instead of the <i>effect</i> minus range, for the bonus to the ESP:Spotter roll.  
+</p>
+
+<h1><code>Skill.getCost.eq.8</code>Telepath</h1>
+<p>
+Using their ESP:Telepath skill a Telepath can directly interrogate a subjects mind without any interference from lies and dissemination.  
+A Telepath needs to know exactly where the target is located {from sight of the target or specific knowledge} or have an area or volume of effect factor in the SFX.  
+Make the SFX ESP:Telepath skill roll against the DN <code>Specific.getCostDN</code>.
+The number by which the skill roll exceeded the DN is used as a bonus for the Telepath's interrogation attempts.  
+If the skill roll is more than twice the DN (<code>Specific.getCostDN.mul.2U</code>) then add anything more than twice the DN as a modifier to the interrogation
+</p>
+<p>
+The Telepath then has the <i>effect</i> (<code>Effect.getValue</code>) as time of <code>Effect.getValue.getTime</code> to interrogate the target.  
+For each question the Telepath rolls her ESP:Telepath skill check with the bonus above.  
+Add any modifier if the initial contact attempt was very successful.  
+Compare this result to the value in the paranormal interrogation table for the type of information required.  
+Move the value by the difference of the roll so success reduces the value and the time taken, while failure increases the value and time taken.
+The information gained is always truthful.  
+When time begins to run out then the Telepath can <i>push</i> using normal push rules.  
+While interrogating a target the Telepath can often accidentally pick up other surface thoughts of the person as the Game Master requires.  
+</p>
+<table>
+<tr><th>Value</th><th>Time</th><th>Information</th></tr>
+<tr><td>0</td><td>instant</td><td>Current thoughts</td></tr>
+<tr><td>4</td><td>5 seconds</td><td>Something immediately to mind</td></tr>
+<tr><td>7</td><td>30 seconds</td><td>Subject that happened or is remembered for current day</td></tr>
+<tr><td>11</td><td>3 minutes</td><td>Important long term memory</td></tr>
+<tr><td>14</td><td>10 minutes</td><td>Unimportant long term memory</td></tr>
+<tr><td>18</td><td>1 hour</td><td>Important fact forgotten</td></tr>
+<tr><td>20</td><td>3 hours</td><td>Unimportant forgotten fact</td></tr>
+</table>
+
+<h1><code>Skill.getCost.eq.9</code>Numerancer</h1>
+
+<h1><code>Skill.getCost.eq.10</code>Witch - Self</h1>
+<p>
+A Witch uses sympathetic magic to affect her or his self.  
+This is a psychoactive application that modifies an <i>attribute</i> or <i>skill</i> or <i>property</i> of the Witch.  
+</p>
+<p>
+The SFX needs to be <i>focused</i> so that once it affects the witch the effect is maintained.  
+Generally a component is required that is relevant to the sympathetic effect required.  
+</p>
+<p>
+A witch activates the SFX by rolling her ESP:Witch skill against DN <code>Specific.getCostDN</code>.  
+Then the <i>effect</i> (<code>Effect.getValue</code>) of the SFX is compared against the appropriate target <i>attribute</i>, 
+and the <code>Skill.getResult</code> column is consulted for the result.
+</p>
+
+<h1>SFX build</h1>
+<p>
+Your SFX power has these properties:
+</p>
+
+<h3><code>Effect.hasCost</code>Effect</h3>
+<p>The effect of the SFX is <code>Effect.getValue</code> (<code>Effect.getCost</code>)</p>
+
+<h3><code>Range.hasCost</code>Range</h3>
+<p>Range for the effect is <code>Range.getValueUnit</code> (<code>Range.getCost</code>)</p>
+
+<h3><code>Speed.isDefault</code>Speed linked to Range</h3>
+<p>The speed of the effect is linked to the range so it takes 1 round</p>
+
+<h3><code>Speed.hasCost</code>Speed</h3>
+<p>The speed of the effect is <code>Speed.getValueUnit</code> (<code>Speed.getCost</code>)</p>
+
+<h3><code>Duration.hasCost</code>Duration</h3>
+<p>The effect will last <code>Duration.getValueUnit</code> (<code>Duration.getCost</code>)</p>
+
+<h3><code>Casting.hasCost</code>Casting time</h3>
+<p>It takes <code>Casting.getValueUnit</code> to create the effect (-<code>Casting.getCost</code>)</p>
+
+<h3><code>AreaEffect.Area.hasCost</code>Area Effect</h3>
+<p>The effect is applies across an area that is <code>AreaEffect.Area.getValue</code>m<sup>2</sup> (<code>AreaEffect.Area.getCost</code>)</p>
+
+<h3><code>AreaEffect.Volume.hasCost</code>Area Effect</h3>
+<p>The effect is applies to anything in a volume <code>AreaEffect.Volume.getValue</code>m<sup>3</sup> (<code>AreaEffect.Volume.getCost</code>)</p>
+
+<h3><code>AreaEffect.Shape.getIndex.eq.1</code>Area Effect</h3>
+<p>The effect is applied to anything in a single shape (<code>AreaEffect.Shape.getCost</code>)</p>
+
+<h3><code>AreaEffect.Shape.getIndex.eq.2</code>Area Effect</h3>
+<p>The effect is applied to any (reasonable) shape (<code>AreaEffect.Shape.getCost</code>)</p>
+
+<h3><code>AreaEffect.Shape.getIndex.eq.3</code>Area Effect</h3>
+<p>The effect is applied to a shape that deforms during the effect (<code>AreaEffect.Shape.getCost</code>)</p>
+
+<h3><code>MultiTarget.hasCost</code>Multiple Targets</h3>
+<p>You can effect <code>MultiTarget.getValue</code> different targets (<code>MultiTarget.getCost</code>)</p>
+
+<h3><code>MultiAttribute.hasCost</code>Multiple Attributes</h3>
+<p>The SFX applies damage to <code>MultiAttribute.getUnit</code> (<code>MultiAttribute.getCost</code>)</p>
+
+<h3><code>ChangeTarget.hasCost</code>Change Targets</h3>
+<p>During the effect you can change <code>ChangeTarget.getValue</code> target (<code>ChangeTarget.getCost</code>)</p>
+
+<h3><code>VariableEffect.hasCost</code>Variable Effect</h3>
+<p>When applying the effect you can change the effect value by <code>VariableEffect.getValue</code> (<code>VariableEffect.getCost</code>)</p>
+
+<h3><code>VariableDuration.Switch.hasCost</code>Control Duration</h3>
+<p>While the effect is in progress you can control the effect as <code>VariableDuration.Switch.getUnit</code> (<code>VariableDuration.Switch.getCost</code>)</p>
+
+<h3><code>VariableDuration.Extend.hasCost</code>Variable Duration</h3>
+<p>Before applying the effect you can change the duration by <code>VariableDuration.Extend.getValueUnit</code> (<code>VariableDuration.Extend.getCost</code>)</p>
+
+<h3><code>Apportation.ToHit.hasCost</code>'To Hit' Bonus</h3>
+<p>The effect requires a 'to hit' roll to impact the target, and this SFX has a bonus of <code>Apportation.ToHit.getValue</code> for that roll (<code>Apportation.ToHit.getCost</code>)</p>
+
+<h3><code>Apportation.Move.hasCost</code>Apportation - Moving the Effect</h3>
+<p>Once the effect is in progress it can be provide impetus to the target.  
+For example a <code>Apportation.Move.getValueUnit</code> can be moved at <code>Apportation.Move.getMove</code> (<code>Apportation.Move.getCost</code>)</p>
+
+<h3><code>Maintenance.hasCost</code>Maintain the Effect</h3>
+<p>The effect can be maintained at the end of the duration by making the SFX roll DN <code>Total.getCostDN.div.3U</code>.
+You suffer an addition FV of <code>Total.getCostFV.div.2U</code>.
+The duration is again <code>Duration.getValueUnit</code> but there is no additional casting time.
+If there are modifiers then they might apply to a lesser extent for the maintenance. (<code>Maintenance.getCost</code>)</p>
+
+<h3><code>Focus.hasCost</code>Focused</h3>
+<p>Once the effect is in progress on a target then the effect follows the target.  
+If the SFX has multiple targets they are all focused. (<code>Focus.getCost</code>)</p>
+
+<h3><code>Charges.hasCost</code>Charges</h3>
+<p>The effect is stored in an object.  Releasing the effect is either at will, or requires a skill roll depending on other factors (see Related Skill or 'to hit').  
+The object that holds the charges is a general type of object, unless there is a specific component specified (see Components).  (<code>Charges.getCost</code>)</p>
+
+<h3><code>Charges.getBonus.gt.0</code>Ward</h3>
+<p>The charges are in the form of a ward.  This is a charge that can automatically trigger unattended in the right circumstances.  
+The circumstances for the ward to trigger are defined when the effects are charged.  
+The difference of the SFX roll above the DN <code>Total.getCostDN</code> is the <i>perception</i> skill total for the ward.  
+When the ward should be triggered the Game Master assigns a DN for the ward to perceive the situation and trigger, (typically <i>easy</i>), 
+though characters could <i>stealth</i> their way past the ward (Cost included in Charges)</p>
+
+<h3><code>Community.getChildren.eq.1</code>Community</h3>
+<p>To perform the SFX you need a community of <code>Community.Community.getTable</code> 
+people to perform a <code>Community.Community.getUnit</code> task in conjunction.  (-<code>Community.Community.getCostReduction</code>)</p>
+
+<h3><code>Community.getChildren.gt.1</code>Communities</h3>
+<p>You need to coordinate several communities for the effect to work</p>
+<p><code>Community.*.getTable</code> people to perform a <code>Community.*.getUnit</code> task in conjunction.  (-<code>Community.*.getCostReduction</code>)</p>
+
+<h3><code>Components.getChildren.eq.1</code>Component</h3>
+<p>This SFX requires a component that is '<code>Components.Component.getUnit</code>' {<code>Components.Component.getTable</code>} 
+<code>Components.Component.getBonus.show.which is destroyed</code> (-<code>Components.Component.getCostReduction</code>)</p>
+
+<h3><code>Components.getChildren.gt.1</code>Components</h3>
+<p>There are several components that are required to make this SFX work</p>
+<p>'<code>Components.*.getUnit</code>' {<code>Components.*.getTable</code>} <code>Components.*.getBonus.show.which is destroyed</code> (-<code>Components.*.getCostReduction</code>)</p>
+
+<h3><code>Concentration.getCostReduction.gt.0</code>Concentration</h3>
+<p>You must concentrate for <code>Concentration.getValueUnit</code> to perform the SFX.  
+Test against <i>willpower</i> <code>Concentration.getComment</code> to see if you are distracted.  (-<code>Concentration.getCostReduction</code>)</p>
+
+<h3><code>Gestures.getChildren.eq.1</code>Gesture</h3>
+<p>As part of the SFX you need to make a gesture that is '<code>Gestures.Gesture.getUnit</code>' {<code>Gestures.Gesture.getTable</code>}.  
+This is done by a <i>dexterity</i> check <code>Gestures.Gesture.getComment</code> (-<code>Gestures.Gesture.getCostReduction</code>)</p>
+
+<h3><code>Gestures.getChildren.gt.2</code>Gestures</h3>
+<p>You need to make the following gestures for the SFX.  Each requires a different <i>dexterity</i> test:</p>
+<p>'<code>Gestures.*.getUnit</code>' {<code>Gestures.*.getTable</code>} check <code>Gestures.*.getComment</code> (-<code>Gestures.*.getCostReduction</code>)</p>
+
+<h3><code>Incantation.hasCost</code>Incantation</h3>
+<p>For the SFX you need to perform an incantation consisting of '<code>Incantation.getUnit</code>'.  
+This requires a <i>mind</i> check <code>Incantation.getComment</code>.    
+<code>Incantation.getBonus.show.It needs to be</code> 
+<code>Incantation.getBonus.bit.1.show.foreign {check you have that ability}</code> 
+<code>Incantation.getBonus.bit.2.show.loud</code> 
+<code>Incantation.getBonus.bit.4.show.profane</code>  
+(<code>Incantation.getCost</code>)</p>
+
+<h3><code>RelatedSkill.getCostReduction.gt.0</code>Related Skill</h3>
+<p>To successfully trigger the effect you need to make a check <code>RelatedSkill.getComment</code>. (<code>RelatedSkill.getCostReduction</code>)</p>
+
+<h3><code>Other.hasCost</code>Other Reductions</h3>
+<p>There are changes for DN or FV that are not covered anywhere else on this sheet.  
+You agree with the Game Master what is necessary for the SFX to obtain these changes.  (<code>Other.getCost</code>)</p>
+
+<h3><code>Unreal.hasCost</code>Unreal</h3>
+<p>The effect is <i>not</i> real.  This reduction gives the target of the effect a <i>intellect</i> attempt at DN
+<code>Unreal.getSpecial</code> to disregard the effect.  This reduction is split <code>Unreal.getPercentage</code> between DN and FV.  (<code>Unreal.getCost</code>)</p>
+
+<h3><code>Total.hasCost</code>Division between DN/FV</h3>
+<p>The value calculated for the cost above is divided between difficulty number DN and feedback value FV  (<code>Fraction.getPercentage</code>) </p>
+
+<h3><code>Total.hasCost</code>Totals</h3>
+<p>The DN of the SFX test is <code>Total.getCostDN</code> and the FV is <code>Total.getCostFV</code></p>
+
+<h1><code>Skill.hasCost</code>Additional factors for Necroscope background</h1>
+
+<h3><code>ConcentrationAdd.hasCost</code>Isolation</h3>
+<p>To be able to concentrate you must be completely isolated (<code>ConcentrationAdd.getCost</code>)</p>
+
+<h3><code>Reception.hasCost</code>Reception</h3>
+<p>When you use your ESP power the target has awareness with <code>Reception.getUnit</code>  (<code>Reception.getCost</code>)</p>
+
+<h3><code>Trance.hasCost</code>Trance</h3>
+<p>While you are using your ESP power you enter a trance.  The difficulty of breaking you out of the trance is <code>Trance.getUnit</code>.  
+A Necroscope normally has the trance effect.  (<code>Trance.getCost</code>)</p>
+
+<h3><code>Lock.hasCost</code>Lock</h3>
+<p>While you are using your ESP power the target is 'locked'.  
+They cannot perform any action until they make a <code>Lock.getUnit</code> skill check.  (<code>Lock.getCost</code>)</p>
+
+<h3><code>Countenance.hasCost</code>Countenance</h3>
+<p>While you are using your ESP power your appearance changes as seen by the target.  
+This is a psychological effect but the target is 100% certain that you have exhibited signs that are <code>Countenance.getUnit</code>.  (<code>Countenance.getCost</code>)</p>
+
+<h3><code>Specific.hasCost</code>Totals including the Necroscope changes</h3>
+<p>
+Taking into account the changes for Necroscope, the DN of the SFX test is <code>Specific.getCostDN</code> and the FV is <code>Specific.getCostFV</code>.  
+Optionally either this FV equates to a delay time of <code>Specific.getCostFV</code> minutes before you can use the power again,  
+or this FV means a delay time of <code>Specific.getCostFV.getTime</code> before you can use the power again.
+</p>
+
+<h3><code>Effect.getCost.gt.12</code>Effect</h3>
+<p>
+After the first application of the SFX against a target, use the difference of the effect and the target resistance as a modifier to any subsequent uses
+</p>
+
+<h3><code>Effect.getCost.lt.13</code>Effect</h3>
+<p>
+An effect value of at least 13 is suggested.  
+After the first application of the SFX against a target, use the difference of the <i>effect</i> and the target resistance as a modifier to any subsequent uses
+</p>
+
+<h3><code>Speed.not.isDefault</code>Speed</h3>
+<p>
+Usually a Necroscope SFX speed is linked to the range so the SFX happens immediately in the same round.
+This has a 0 cost.  You can choose to make the speed slower which gives you a reduction in the cost of the SFX. 
+</p>
+
+<h3><code>Charges.hasCost</code>Charges</h3>
+<p>
+This is not really allowed
+</p>
+
+<h3><code>Fraction.getValue.neq.0.5</code>Split DN and FV</h3>
+<p>
+Typically Necroscope suggests a split of DN/FV of 50%/50% and the FV is ignored.
+An alternative is to allow a variable split as in the MasterBook rules, and to use the FV as a delay required between applications of the SFX.  
+</p>
+
+<h3><code>Community.hasCost</code>Community</h3>
+<p>
+All powers in Necroscope are individual
+</p>
+
+<h3><code>Components.getCost.eq.1</code>Components</h3>
+<p>
+Using a component for an SFX is a psychological placebo
+</p>
+
+<h3><code>Components.getCost.gt.1</code>Components</h3>
+<p>
+Using a component should be limited to a 1 point reduction
+</p>
+
+<h3><code>Incantation.getCost.gt.2</code>Incantation</h3>
+<p>
+Incantations should be limited to a few words or a mantra
+<code>Incantation.getBonus.show.The incantation</code> 
+<code>Incantation.getBonus.bit.1.show.could be foreign in a dead tongue, you should have a good reason for knowing and using that language</code> 
+<code>Incantation.getBonus.bit.2.show.need not be loud</code> 
+<code>Incantation.getBonus.bit.4.show.need not be profane!</code>  
+</p>
+
+<h3><code>Unreal.hasCost</code>Unreal</h3>
+<p>
+Only a Shaman can use this modifier.
+The target makes an <i>intellect</i> attempt at DN <code>Unreal.getSpecial</code> to disregard the SFX.
+</p>
+<!--
+Charmed - unconsciously predict dangerous situations and avoid them
+Clairauditor
+Cryokinetic
+Cyborg - interface with computers
+Danger Sensitive
+Deflector
+Dowser
+Druid - communicate with animals
+Elemental - control the weather
+Empath
+Exorcist
+Farseer - clairvoyant
+Finder
+Gaia
+Healer
+Lie Detector
+Numerancer
+Postscient
+Precog
+Psychokinetic
+Scryer
+Spiritist
+Traveler
+Void
+Witch - self - basis confidence, compare skill/ability on push - must have focus
+Witch - other
+-->
+</body>
+</html>
